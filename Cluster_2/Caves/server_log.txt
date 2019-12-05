@@ -1,0 +1,1036 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 88%
+	Available Physical Memory: 951m/8066m
+	Available Page File: 2660m/13834m
+	Available Virtual Memory: 4006m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 10m
+	Quota Peak Page Pool Usage: 168k
+	Quota Page Pool Usage: 165k
+	Quota Peak Non Paged Pool Usage:15k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogetherRail/76561197971098217/Cluster_2/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 382145
+[00:00:00]: Current time: Wed Dec 04 20:13:44 2019
+
+[00:00:00]: Don't Starve Together: 382145 WIN32
+[00:00:00]: Build Date: 4883
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 146032 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogetherRail -cluster Cluster_2 -ownernetid R:76561197971098217 -ownerdir 76561197971098217 -backup_log_count 10 -backup_log_period 0 -shard Caves -sigprefix DST_Slave -region China --rail_platform_type=1 --rail_app_type=2 --rail_channel_id=1600166032 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: [Rail] Initializing Rail (2000004)
+[00:00:00]: [Rail] Rail SDK version 1.9.11.0
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (143628)
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: ProfileIndex:3.00
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 4
+[00:00:00]: THREAD - started 'Ping Job Thread' (143964)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: Overriding region to China
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogetherRail/76561197971098217/client_save/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (145428)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogetherRail/76561197971098217/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogetherRail/76561197971098217/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: RU_76561197971098217
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogetherRail/76561197971098217/Cluster_2/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogetherRail/76561197971098217/Cluster_2/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.17763
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3192
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      Intel(R) UHD Graphics 630
+    driverDate                20190604000000.000000-000
+    megsOfRam                 1024
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             26.20.100.6913
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_r.po	
+[00:00:02]:   taskgrouplist:	default	联机版	
+[00:00:02]:   taskgrouplist:	classic	经典	
+[00:00:02]:   taskgrouplist:	cave_default	地下	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: DownloadMods(0)
+[00:00:02]: modoverrides.lua enabling workshop-100010005	
+[00:00:02]: modoverrides.lua enabling workshop-100010063	
+[00:00:02]: modoverrides.lua enabling workshop-2199027653598512929	
+[00:00:02]: modoverrides.lua enabling workshop-2199027653598511644	
+[00:00:02]: modoverrides.lua enabling workshop-100010021	
+[00:00:02]: modoverrides.lua enabling workshop-100010058	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010005	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010021	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010063	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511644	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598512929	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-100010005_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-100010005 (复活重生) Version:0.2.3.h.0.2	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-100010021_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-100010021 (提示属性显示) Version:0.186.h.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-100010058_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-100010058 (食物属性标签) Version:1.61.h.0.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-100010063_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-100010063 (叠加上限99) Version:1.62.h.0.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2199027653598511644_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-2199027653598511644 (额外装备栏) Version:1.8.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2199027653598512929_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-2199027653598512929 (传送戒指3.1-叶子) Version:3.1	
+[00:00:02]: Mod: workshop-2199027653598511644 (额外装备栏)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2199027653598511644 (额外装备栏)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2199027653598511644 (额外装备栏)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010058 (食物属性标签)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010058 (食物属性标签)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010058 (食物属性标签)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010021 (提示属性显示)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010021 (提示属性显示)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010021 (提示属性显示)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010063 (叠加上限99)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010063 (叠加上限99)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010063 (叠加上限99)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010005 (复活重生)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010005 (复活重生)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010005 (复活重生)	Loading modmain.lua	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: Registering mod namespace "food item"
+[00:00:03]: Registering mod namespace "showmehint"
+[00:00:03]: Registering mod namespace "showme"
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: ServerPreferences could not load server_preferences	
+[00:00:03]: bloom_enabled	false	
+[00:00:03]: loaded saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:05]: Mod: workshop-2199027653598511644 (额外装备栏)	Registering prefabs	
+[00:00:05]: Mod: workshop-2199027653598511644 (额外装备栏)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-100010058 (食物属性标签)	Registering prefabs	
+[00:00:05]: Mod: workshop-100010058 (食物属性标签)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-100010021 (提示属性显示)	Registering prefabs	
+[00:00:05]: Mod: workshop-100010021 (提示属性显示)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-100010063 (叠加上限99)	Registering prefabs	
+[00:00:05]: Mod: workshop-100010063 (叠加上限99)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Registering prefabs	
+[00:00:05]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Registering prefab file: prefabs/bindingringprefabdef	
+[00:00:05]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	    bindingring	
+[00:00:05]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-100010005 (复活重生)	Registering prefabs	
+[00:00:05]: Mod: workshop-100010005 (复活重生)	  Registering default mod prefab	
+[00:00:05]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (133964)
+[00:00:05]: FilesExistAsyncThread started (13264 files)...
+[00:00:05]: Check for write access: TRUE
+[00:00:05]: Check for read access: TRUE
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:05]: [IPC] Signal 'DST_Slave_Kill' opened  #00000440
+[00:00:05]: [IPC] Registering handler for signal #00000440
+[00:00:05]: [IPC] Handle #00000440 added to the Eventhandles
+[00:00:05]: [IPC] Signal 'DST_Slave_Starting' opened  #0000050C
+[00:00:05]: [IPC] Sending signal... #0000050C
+[00:00:06]: [200] Account Communication Success (6)
+[00:00:06]: Received (KU_ItJcELTd) from TokenPurpose
+[00:00:06]: Starting Dedicated Server Game	
+[00:00:06]: Network tick rate: U=15(2), D=0
+[00:00:06]: About to start a server with the following settings:
+[00:00:06]:   Dedicated: true
+[00:00:06]:   Online: true
+[00:00:06]:   Passworded: true
+[00:00:06]:   ServerPort: 10998
+[00:00:06]:   SteamAuthPort: 8766
+[00:00:06]:   SteamMasterServerPort: 27016
+[00:00:06]:   ClanID: false
+[00:00:06]:   ClanOnly: false
+[00:00:06]:   ClanAdmin: false
+[00:00:06]:   LanOnly: false
+[00:00:06]:   FriendsOnly: false
+[00:00:06]:   EnableAutosaver: true
+[00:00:06]:   EncodeUserPath: true
+[00:00:06]:   PVP: false
+[00:00:06]:   MaxPlayers: 6
+[00:00:06]:   GameMode: survival
+[00:00:06]:   OverridenDNS: 
+[00:00:06]:   PauseWhenEmpty: true
+[00:00:06]:   IdleTimeout: 1800s
+[00:00:06]:   VoteEnabled: false
+[00:00:06]:   InternetBroadcasting: true
+[00:00:06]:   Intent: social
+[00:00:06]: [Warning] Could not confirm port 10998 is open in the firewall. 
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-100010058	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2199027653598511644	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2199027653598512929	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-100010063	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-100010021	
+[00:00:06]: Online Server Started on port: 10998
+[00:00:06]: [Rail] Punchthrough start.
+[00:00:06]: Collecting garbage...
+[00:00:06]: lua_gc took 0.04 seconds
+[00:00:06]: ~ShardLuaProxy()
+[00:00:06]: ~cEventLeaderboardProxy()
+[00:00:06]: ~ItemServerLuaProxy()
+[00:00:06]: ~InventoryLuaProxy()
+[00:00:06]: ~NetworkLuaProxy()
+[00:00:06]: ~SimLuaProxy()
+[00:00:06]: ... FilesExistAsyncThread complete
+[00:00:06]: lua_close took 0.04 seconds
+[00:00:06]: ReleaseAll
+[00:00:06]: ReleaseAll Finished
+[00:00:06]: cGame::StartPlaying
+[00:00:06]: LOADING LUA
+[00:00:06]: DoLuaFile scripts/main.lua
+[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]: Translator:LoadPOFile - loading file: scripts/languages/chinese_r.po	
+[00:00:07]:   taskgrouplist:	default	联机版	
+[00:00:07]:   taskgrouplist:	classic	经典	
+[00:00:07]:   taskgrouplist:	cave_default	地下	
+[00:00:07]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:07]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:07]: running main.lua
+	
+[00:00:07]: unloading prefabs for mod MOD_workshop-2199027653598511644	
+[00:00:07]: unloading prefabs for mod MOD_workshop-100010058	
+[00:00:07]: unloading prefabs for mod MOD_workshop-100010021	
+[00:00:07]: unloading prefabs for mod MOD_workshop-100010063	
+[00:00:07]: unloading prefabs for mod MOD_workshop-2199027653598512929	
+[00:00:07]: unloading prefabs for mod MOD_workshop-100010005	
+[00:00:07]: loaded modindex	
+[00:00:07]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:07]: modoverrides.lua enabling workshop-100010005	
+[00:00:07]: modoverrides.lua enabling workshop-100010063	
+[00:00:07]: modoverrides.lua enabling workshop-2199027653598512929	
+[00:00:07]: modoverrides.lua enabling workshop-2199027653598511644	
+[00:00:07]: modoverrides.lua enabling workshop-100010021	
+[00:00:07]: modoverrides.lua enabling workshop-100010058	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010005	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010021	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010063	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511644	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598512929	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-100010005	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-100010005 (复活重生) Version:0.2.3.h.0.2	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-100010021	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-100010021 (提示属性显示) Version:0.186.h.1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-100010058	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-100010058 (食物属性标签) Version:1.61.h.0.1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-100010063	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-100010063 (叠加上限99) Version:1.62.h.0.1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-2199027653598511644 (额外装备栏) Version:1.8.0	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-2199027653598512929 (传送戒指3.1-叶子) Version:3.1	
+[00:00:07]: Mod: workshop-2199027653598511644 (额外装备栏)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-2199027653598511644 (额外装备栏)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-2199027653598511644 (额外装备栏)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-100010058 (食物属性标签)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-100010058 (食物属性标签)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-100010058 (食物属性标签)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-100010021 (提示属性显示)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-100010021 (提示属性显示)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-100010021 (提示属性显示)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-100010063 (叠加上限99)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-100010063 (叠加上限99)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-100010063 (叠加上限99)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-100010005 (复活重生)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-100010005 (复活重生)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-100010005 (复活重生)	Loading modmain.lua	
+[00:00:08]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:08]: LOADING LUA SUCCESS
+[00:00:08]: Registering mod namespace "food item"
+[00:00:08]: Registering mod namespace "showmehint"
+[00:00:08]: Registering mod namespace "showme"
+[00:00:08]: PlayerDeaths could not load morgue	
+[00:00:08]: PlayerHistory could not load player_history	
+[00:00:08]: ServerPreferences could not load server_preferences	
+[00:00:08]: bloom_enabled	false	
+[00:00:08]: loaded saveindex	
+[00:00:08]: OnFilesLoaded()	
+[00:00:08]: OnUpdatePurchaseStateComplete	
+[00:00:08]: Loading world: session/125876545D04C587/0000000019	
+[00:00:08]: Save file is at version 5.031	
+[00:00:08]: Klump load on boot started.	
+[00:00:08]: Klump files loaded: 	0	
+[00:00:08]: 	Unload FE	
+[00:00:08]: 	Unload FE done	
+[00:00:09]: Mod: workshop-2199027653598511644 (额外装备栏)	Registering prefabs	
+[00:00:09]: Mod: workshop-2199027653598511644 (额外装备栏)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-100010058 (食物属性标签)	Registering prefabs	
+[00:00:09]: Mod: workshop-100010058 (食物属性标签)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-100010021 (提示属性显示)	Registering prefabs	
+[00:00:09]: Mod: workshop-100010021 (提示属性显示)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-100010063 (叠加上限99)	Registering prefabs	
+[00:00:09]: Mod: workshop-100010063 (叠加上限99)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Registering prefabs	
+[00:00:09]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Registering prefab file: prefabs/bindingringprefabdef	
+[00:00:09]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	    bindingring	
+[00:00:09]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-100010005 (复活重生)	Registering prefabs	
+[00:00:09]: Mod: workshop-100010005 (复活重生)	  Registering default mod prefab	
+[00:00:09]: 	LOAD BE	
+[00:00:25]: 	LOAD BE: done	
+[00:00:25]: Begin Session: 125876545D04C587
+[00:00:25]: saving to server_temp/server_save	
+[00:00:25]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:25]: Loading 16 new character(s)	
+[00:00:28]: Total 16 character(s) loaded	
+[00:00:32]: Loading Nav Grid	
+[00:00:32]: World generated on version 382145, using seed: 1575377968	
+[00:00:32]: setting 	summerlength	15	
+[00:00:32]: setting 	isnightmaredawn	false	
+[00:00:32]: setting 	elapseddaysinseason	14	
+[00:00:32]: setting 	isfullmoon	false	
+[00:00:32]: setting 	moisture	2381.0498046875	
+[00:00:32]: setting 	springlength	20	
+[00:00:32]: setting 	isnightmarewild	false	
+[00:00:32]: setting 	moonphase	new	
+[00:00:32]: setting 	precipitationrate	0	
+[00:00:32]: setting 	iswet	false	
+[00:00:32]: setting 	isnewmoon	false	
+[00:00:32]: setting 	iswinter	false	
+[00:00:32]: setting 	israining	false	
+[00:00:32]: setting 	isnightmarewarn	false	
+[00:00:32]: setting 	precipitation	none	
+[00:00:32]: setting 	cavephase	day	
+[00:00:32]: setting 	moistureceil	7653.5146484375	
+[00:00:32]: setting 	isday	false	
+[00:00:32]: setting 	iscaveday	true	
+[00:00:32]: setting 	season	autumn	
+[00:00:32]: setting 	timeinphase	0.14849068777902	
+[00:00:32]: setting 	temperature	8.8479440721379	
+[00:00:32]: setting 	isnightmarecalm	true	
+[00:00:32]: setting 	isnight	true	
+[00:00:32]: setting 	isdusk	false	
+[00:00:32]: setting 	iscavedusk	false	
+[00:00:32]: setting 	isautumn	true	
+[00:00:32]: setting 	issnowing	false	
+[00:00:32]: setting 	iswaxingmoon	true	
+[00:00:32]: setting 	pop	0.27257478840179	
+[00:00:32]: setting 	snowlevel	0	
+[00:00:32]: setting 	issnowcovered	false	
+[00:00:32]: setting 	autumnlength	20	
+[00:00:32]: setting 	phase	night	
+[00:00:32]: setting 	nightmaretime	115.12602338436	
+[00:00:32]: setting 	winterlength	15	
+[00:00:32]: setting 	isspring	false	
+[00:00:32]: setting 	nightmarephase	calm	
+[00:00:32]: setting 	remainingdaysinseason	6	
+[00:00:32]: setting 	cycles	14	
+[00:00:32]: setting 	iscavenight	false	
+[00:00:32]: setting 	nightmaretimeinphase	0.319794509401	
+[00:00:32]: setting 	wetness	0	
+[00:00:32]: setting 	time	0.06496467590332	
+[00:00:32]: setting 	issummer	false	
+[00:00:32]: [Shard] Slave is waiting for LUA...
+[00:00:34]: Reconstructing topology	
+[00:00:34]: 	...Sorting points	
+[00:00:34]: 	...Sorting edges	
+[00:00:34]: 	...Connecting nodes	
+[00:00:34]: 	...Validating connections	
+[00:00:34]: 	...Housekeeping	
+[00:00:34]: 	...Done!	
+[00:00:34]: 1 uploads added to server. From server_temp
+[00:00:34]: About to start a shard with these settings:
+[00:00:34]:   ShardName: Caves
+[00:00:34]:   ShardID: 3367953596
+[00:00:34]:   ShardRole: SLAVE
+[00:00:34]:   MasterHost: 127.0.0.1
+[00:00:34]:   MasterBind: (null)
+[00:00:34]:   MasterPort: 10888
+[00:00:34]: [Shard] Connecting to master...
+[00:00:34]: Telling Client our new session identifier: 125876545D04C587
+[00:00:34]: Check for write access: TRUE
+[00:00:34]: Check for read access: TRUE
+[00:00:34]: ModIndex: Load sequence finished successfully.	
+[00:00:34]: Reset() returning
+[00:00:34]: [Rail] Creating game server...
+[00:00:34]: [Rail] Done.
+[00:00:34]: [Shard] Sending slave information to master...
+[00:00:35]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:35]: Validating portal[9] <-> 1[9] (inactive)	
+[00:00:35]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:35]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:35]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:35]: Validating portal[2] <-> 1[2] (inactive)	
+[00:00:35]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:35]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:35]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:35]: Validating portal[6] <-> 1[6] (inactive)	
+[00:00:38]: [Rail] Game server created.
+[00:00:38]: [P2P] Setting rail id 90071997687557771
+[00:00:38]: [Rail] WARNING: Spent 3164 milliseconds in rail calls in the last 3.41 seconds
+[00:00:38]:     RailLibrary::RailFireEvents: 0ms
+[00:00:39]: Registering slave in China lobby
+[00:00:40]: [Shard] Slave is now ready!
+[00:00:40]: World 1 is now connected	
+[00:00:40]: Validating portal[3] <-> 1[3] (active)	
+[00:00:40]: Validating portal[9] <-> 1[9] (active)	
+[00:00:40]: Validating portal[10] <-> 1[10] (active)	
+[00:00:40]: Validating portal[8] <-> 1[8] (active)	
+[00:00:40]: Validating portal[7] <-> 1[7] (active)	
+[00:00:40]: Validating portal[2] <-> 1[2] (active)	
+[00:00:40]: Validating portal[4] <-> 1[4] (active)	
+[00:00:40]: Validating portal[1] <-> 1[1] (active)	
+[00:00:40]: Validating portal[5] <-> 1[5] (active)	
+[00:00:40]: Validating portal[6] <-> 1[6] (active)	
+[00:00:41]: [Shard] Slave LUA is now ready!
+[00:00:41]: [IPC] Signal 'DST_Slave_Ready' opened  #000006A8
+[00:00:41]: [IPC] Sending signal... #000006A8
+[00:00:41]: Sim paused
+[00:00:45]: [Rail] Reporting played with: "蹦嚓擦" (R:76561197971098217).
+[00:01:17]: Sim unpaused
+[00:04:52]: [Rail] Reporting played with: "莽夫丨" (R:76561197971080639).
+[00:05:39]: Registering slave in China lobby
+[00:06:03]: [Rail] Reporting played with: "别来无恙111" (R:76561197981759635).
+[00:06:21]: [Rail] Reporting played with: "别来无恙111" (R:76561197981759635).
+[00:06:41]: [Rail] Reporting played with: "别来无恙111" (R:76561197981759635).
+[00:08:48]: Serializing world: session/125876545D04C587/0000000020
+[00:08:48]: Truncating to snapshot #20...
+[00:08:48]:  - session/125876545D04C587/0000000014
+[00:08:48]:    1 file(s) removed
+[00:10:39]: Registering slave in China lobby
+[00:15:39]: Registering slave in China lobby
+[00:16:10]: [Rail] Reporting played with: "钟情为你" (R:76561197981229727).
+[00:16:48]: Serializing world: session/125876545D04C587/0000000021
+[00:16:48]: Truncating to snapshot #21...
+[00:16:48]:  - session/125876545D04C587/0000000015
+[00:16:48]:    1 file(s) removed
+[00:20:39]: Registering slave in China lobby
+[00:24:48]: Serializing world: session/125876545D04C587/0000000022
+[00:24:48]: Truncating to snapshot #22...
+[00:24:48]:  - session/125876545D04C587/0000000016
+[00:24:48]:    1 file(s) removed
+[00:25:39]: Registering slave in China lobby
+[00:30:05]: [200] Account Communication Success (6)
+[00:30:05]: Received (KU_ItJcELTd) from TokenPurpose
+[00:30:39]: Registering slave in China lobby
+[00:32:49]: Serializing world: session/125876545D04C587/0000000023
+[00:32:49]: Truncating to snapshot #23...
+[00:32:49]:  - session/125876545D04C587/0000000017
+[00:32:49]:    1 file(s) removed
+[00:35:39]: Registering slave in China lobby
+[00:40:39]: Registering slave in China lobby
+[00:40:49]: Serializing world: session/125876545D04C587/0000000024
+[00:40:49]: Truncating to snapshot #24...
+[00:40:49]:  - session/125876545D04C587/0000000018
+[00:40:49]:    1 file(s) removed
+[00:45:39]: Registering slave in China lobby
+[00:48:49]: Serializing world: session/125876545D04C587/0000000025
+[00:48:49]: Truncating to snapshot #25...
+[00:48:49]:  - session/125876545D04C587/0000000019
+[00:48:49]:    1 file(s) removed
+[00:50:39]: Registering slave in China lobby
+[00:55:39]: Registering slave in China lobby
+[00:56:49]: Serializing world: session/125876545D04C587/0000000026
+[00:56:49]: Truncating to snapshot #26...
+[00:56:49]:  - session/125876545D04C587/0000000020
+[00:56:49]:    1 file(s) removed
+[01:00:08]: [200] Account Communication Success (6)
+[01:00:08]: Received (KU_ItJcELTd) from TokenPurpose
+[01:00:39]: Registering slave in China lobby
+[01:04:56]: Serializing world: session/125876545D04C587/0000000027
+[01:04:56]: Truncating to snapshot #27...
+[01:04:56]:  - session/125876545D04C587/0000000021
+[01:04:56]:    1 file(s) removed
+[01:05:39]: Registering slave in China lobby
+[01:10:39]: Registering slave in China lobby
+[01:11:05]: [Shard] #1 -> session/125876545D04C587/A7I5LJ3IH596/0000000028
+[01:11:05]: [Shard] Received migration #1 data for (KU_HQp7A9Kc)
+[01:11:10]: [P2P] Session request for '76561197981759635'
+[01:11:10]: [P2P] Create session: 193.148.55.14|1 'R:76561197981759635'
+[01:11:10]: [P2P] Received from 193.148.55.14|1 'R:76561197981759635'
+[01:11:10]: [P2P] Sent to 193.148.55.14|1 'R:76561197981759635'
+[01:11:11]: New incoming connection 193.148.55.14|1 <839410069581529534>
+[01:11:11]: Client connected from 193.148.55.14|1 <839410069581529534>
+[01:11:11]: ValidateGameSessionToken pgs-sing^KU_HQp7A9Kc^DontStarveTogether^6NhMc4t88Hpz4FwPayYUlULUznMkfpkw8/VaD8biw9A= for <839410069581529534>
+[01:11:12]: Client authenticated: (KU_HQp7A9Kc) 别来无恙111
+[01:11:12]: [Shard] Completed incoming migration #1 for (KU_HQp7A9Kc)
+[01:11:35]: Resuming user: session/125876545D04C587/A7I5LJ3IH596/0000000028
+[01:11:35]: Could not find anim build FROMNUM
+[01:11:35]: Player will spawn close to portal #9	
+[01:11:35]: Spawning player at: [Load] (-390.68, 0.00, 552.34)	
+[01:11:36]: Platform hopping disabled on: 别来无恙111	
+[01:12:56]: Serializing user: session/125876545D04C587/A7I5LJ3IH596/0000000028
+[01:12:56]: Serializing world: session/125876545D04C587/0000000028
+[01:13:42]: Activating portal[9] to 1	
+[01:13:43]: Serializing user: session/125876545D04C587/A7I5LJ3IH596/0000000029
+[01:13:43]: [Shard] Migration request: (KU_HQp7A9Kc) to [SHDMASTER](1)
+[01:13:43]: [Shard] #2 <- session/125876545D04C587/A7I5LJ3IH596/0000000029
+[01:13:43]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:15:39]: Registering slave in China lobby
+[01:20:39]: Registering slave in China lobby
+[01:20:57]: Serializing world: session/125876545D04C587/0000000029
+[01:20:57]: Truncating to snapshot #29...
+[01:20:57]:  - session/125876545D04C587/0000000022
+[01:20:57]:  - session/125876545D04C587/0000000023
+[01:20:57]:    2 file(s) removed
+[01:23:47]: [P2P] Session timed out for 'R:76561197981759635'
+[01:23:47]: [P2P] Remove session: 193.148.55.14|1 'R:76561197981759635'
+[01:25:39]: Registering slave in China lobby
+[01:29:03]: Serializing world: session/125876545D04C587/0000000030
+[01:29:03]: Truncating to snapshot #30...
+[01:29:03]:  - session/125876545D04C587/0000000024
+[01:29:03]:    1 file(s) removed
+[01:30:06]: [200] Account Communication Success (6)
+[01:30:06]: Received (KU_ItJcELTd) from TokenPurpose
+[01:30:39]: Registering slave in China lobby
+[01:35:39]: Registering slave in China lobby
+[01:37:03]: Serializing world: session/125876545D04C587/0000000031
+[01:37:03]: Truncating to snapshot #31...
+[01:37:03]:  - session/125876545D04C587/0000000025
+[01:37:03]:    1 file(s) removed
+[01:40:39]: Registering slave in China lobby
+[01:41:26]: [Shard] #3 -> session/125876545D04C587/A7KS5EOHPF8G/0000000032
+[01:41:26]: [Shard] Received migration #3 data for (KU_d2kn7BqG)
+[01:41:30]: [P2P] Session request for '76561197971080639'
+[01:41:31]: [P2P] Create session: 193.148.55.15|1 'R:76561197971080639'
+[01:41:31]: [P2P] Received from 193.148.55.15|1 'R:76561197971080639'
+[01:41:31]: [P2P] Sent to 193.148.55.15|1 'R:76561197971080639'
+[01:41:34]: New incoming connection 193.148.55.15|1 <58947575144622838>
+[01:41:34]: Client connected from 193.148.55.15|1 <58947575144622838>
+[01:41:34]: ValidateGameSessionToken pgs-sing^KU_d2kn7BqG^DontStarveTogether^9MFBkK6lDjfItXSwQpNvJNAKjpEH4mDS/Kr9Gw2CiBw= for <58947575144622838>
+[01:41:35]: Client authenticated: (KU_d2kn7BqG) 莽夫丨
+[01:41:36]: [Shard] Completed incoming migration #3 for (KU_d2kn7BqG)
+[01:42:04]: Resuming user: session/125876545D04C587/A7KS5EOHPF8G/0000000032
+[01:42:04]: Could not find anim build FROMNUM
+[01:42:04]: Player will spawn close to portal #3	
+[01:42:04]: Spawning player at: [Load] (242.62, 0.00, 289.95)	
+[01:42:04]: Platform hopping disabled on: 莽夫丨	
+[01:42:34]: Activating portal[3] to 1	
+[01:42:35]: Serializing user: session/125876545D04C587/A7KS5EOHPF8G/0000000032
+[01:42:35]: [Shard] Migration request: (KU_d2kn7BqG) to [SHDMASTER](1)
+[01:42:35]: [Shard] #4 <- session/125876545D04C587/A7KS5EOHPF8G/0000000032
+[01:42:35]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:44:28]: [Shard] #5 -> session/125876545D04C587/A7KS5EOHPF8G/0000000032
+[01:44:28]: [Shard] Received migration #5 data for (KU_d2kn7BqG)
+[01:44:33]: [P2P] Received from 193.148.55.15|1 'R:76561197971080639'
+[01:44:33]: [P2P] Sent to 193.148.55.15|1 'R:76561197971080639'
+[01:44:34]: [Shard] #6 -> session/125876545D04C587/A7IBEJJ3ILR7/0000000032
+[01:44:34]: [Shard] Received migration #6 data for (KU_ItJcELTd)
+[01:44:35]: New incoming connection 193.148.55.15|1 <5231785273836210693>
+[01:44:35]: Client connected from 193.148.55.15|1 <5231785273836210693>
+[01:44:35]: ValidateGameSessionToken pgs-sing^KU_d2kn7BqG^DontStarveTogether^2EA1OfIaL43xAK9thrwdk2wJnqKWk/JfMnju14yKqE8= for <5231785273836210693>
+[01:44:36]: Client authenticated: (KU_d2kn7BqG) 莽夫丨
+[01:44:36]: [Shard] Completed incoming migration #5 for (KU_d2kn7BqG)
+[01:44:41]: New incoming connection 127.0.0.1|52006 <597076083140748086>
+[01:44:41]: Client connected from [LAN] 127.0.0.1|52006 <597076083140748086>
+[01:44:41]: ValidateGameSessionToken pgs-sing^KU_ItJcELTd^DontStarveTogether^Co5jXnTIQRR9YyvB9aw+n5OpHC8d5XEz4XSY5LLUM+A= for <597076083140748086>
+[01:44:41]: Client authenticated: (KU_ItJcELTd) 蹦嚓擦
+[01:44:41]: [Shard] Completed incoming migration #6 for (KU_ItJcELTd)
+[01:44:46]: [Rail] Reporting played with: "钟情为你" (R:76561197981229727).
+[01:44:55]: [Shard] #7 -> session/125876545D04C587/A7I5LJ3IH596/0000000032
+[01:44:55]: [Shard] Received migration #7 data for (KU_HQp7A9Kc)
+[01:44:57]: Resuming user: session/125876545D04C587/A7KS5EOHPF8G/0000000032
+[01:44:57]: Could not find anim build FROMNUM
+[01:44:57]: Player will spawn close to portal #3	
+[01:44:57]: Spawning player at: [Load] (243.16, 0.00, 286.20)	
+[01:44:58]: Platform hopping disabled on: 莽夫丨	
+[01:44:59]: [P2P] Session request for '76561197981759635'
+[01:44:59]: [P2P] Create session: 193.148.55.16|1 'R:76561197981759635'
+[01:44:59]: [P2P] Received from 193.148.55.16|1 'R:76561197981759635'
+[01:44:59]: [P2P] Sent to 193.148.55.16|1 'R:76561197981759635'
+[01:45:01]: New incoming connection 193.148.55.16|1 <1420680127116336384>
+[01:45:01]: Client connected from 193.148.55.16|1 <1420680127116336384>
+[01:45:01]: ValidateGameSessionToken pgs-sing^KU_HQp7A9Kc^DontStarveTogether^eXjdFFLHwVZ0WoCM3isA1KcbVDB9F9Nmwn0gksIISpM= for <1420680127116336384>
+[01:45:01]: Client authenticated: (KU_HQp7A9Kc) 别来无恙111
+[01:45:01]: [Shard] Completed incoming migration #7 for (KU_HQp7A9Kc)
+[01:45:03]: Serializing user: session/125876545D04C587/A7KS5EOHPF8G/0000000032
+[01:45:03]: Serializing world: session/125876545D04C587/0000000032
+[01:45:23]: Resuming user: session/125876545D04C587/A7I5LJ3IH596/0000000032
+[01:45:23]: Could not find anim build FROMNUM
+[01:45:23]: Player will spawn close to portal #3	
+[01:45:23]: Spawning player at: [Load] (245.72, 0.00, 286.13)	
+[01:45:24]: Platform hopping disabled on: 别来无恙111	
+[01:45:27]: Resuming user: session/125876545D04C587/A7IBEJJ3ILR7/0000000032
+[01:45:27]: Could not find anim build FROMNUM
+[01:45:27]: Player will spawn close to portal #3	
+[01:45:27]: Spawning player at: [Load] (244.89, 0.00, 285.84)	
+[01:45:28]: Platform hopping disabled on: 蹦嚓擦	
+[01:45:39]: Registering slave in China lobby
+[01:46:08]: Activating portal[3] to 1	
+[01:46:08]: Serializing user: session/125876545D04C587/A7IBEJJ3ILR7/0000000033
+[01:46:08]: [Shard] Migration request: (KU_ItJcELTd) to [SHDMASTER](1)
+[01:46:08]: [Shard] #8 <- session/125876545D04C587/A7IBEJJ3ILR7/0000000033
+[01:46:08]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:46:09]: Connection lost to 193.148.55.15|1 <5231785273836210693>
+[01:46:09]: Serializing user: session/125876545D04C587/A7KS5EOHPF8G/0000000033
+[01:46:37]: Activating portal[3] to 1	
+[01:46:38]: Serializing user: session/125876545D04C587/A7I5LJ3IH596/0000000033
+[01:46:38]: [Shard] Migration request: (KU_HQp7A9Kc) to [SHDMASTER](1)
+[01:46:38]: [Shard] #9 <- session/125876545D04C587/A7I5LJ3IH596/0000000033
+[01:46:38]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:46:41]: [Shard] Received forward request #10 for (KU_d2kn7BqG)
+[01:46:42]: [Rail] Reporting played with: "莽夫丨" (R:76561197971080639).
+[01:46:45]: [P2P] Received from 193.148.55.15|1 'R:76561197971080639'
+[01:46:45]: [P2P] Sent to 193.148.55.15|1 'R:76561197971080639'
+[01:46:45]: New incoming connection 193.148.55.15|1 <165531509308840473>
+[01:46:45]: Client connected from 193.148.55.15|1 <165531509308840473>
+[01:46:45]: ValidateGameSessionToken pgs-sing^KU_d2kn7BqG^DontStarveTogether^bhvMmlNgffG2mBUybpIBcKgqcdQvykxsyv7I24aCgHQ= for <165531509308840473>
+[01:46:46]: Client authenticated: (KU_d2kn7BqG) 莽夫丨
+[01:46:48]: There is no active event to validate against.
+[01:46:48]: [Shard] Completed incoming migration #10 for (KU_d2kn7BqG)
+[01:47:05]: Resuming user: session/125876545D04C587/A7KS5EOHPF8G/0000000033
+[01:47:05]: Could not find anim build FROMNUM
+[01:47:05]: Spawning player at: [Load] (249.75, 0.00, 284.71)	
+[01:47:05]: Platform hopping disabled on: 莽夫丨	
+[01:50:39]: Registering slave in China lobby
+[01:51:30]: Could not find anim [death] in bank [ghost]
+[01:51:30]: Serializing user: session/125876545D04C587/A7KS5EOHPF8G/0000000033
+[01:51:37]: Could not find anim [idle_loop] in bank [ghost]
+[01:51:40]: Could not find anim [transform] in bank [wilson]
+[01:51:41]: Serializing user: session/125876545D04C587/A7KS5EOHPF8G/0000000033
+[01:53:04]: Serializing user: session/125876545D04C587/A7KS5EOHPF8G/0000000033
+[01:53:04]: Serializing world: session/125876545D04C587/0000000033
+[01:55:39]: Registering slave in China lobby
+[01:56:41]: [P2P] Session timed out for 'R:76561197981759635'
+[01:56:41]: [P2P] Remove session: 193.148.55.16|1 'R:76561197981759635'
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_ItJcELTd) from TokenPurpose
+[02:00:39]: Registering slave in China lobby
+[02:01:04]: Serializing user: session/125876545D04C587/A7KS5EOHPF8G/0000000034
+[02:01:04]: Serializing world: session/125876545D04C587/0000000034
+[02:05:39]: Registering slave in China lobby
+[02:07:55]: Activating portal[3] to 1	
+[02:07:56]: Serializing user: session/125876545D04C587/A7KS5EOHPF8G/0000000035
+[02:07:56]: [Shard] Migration request: (KU_d2kn7BqG) to [SHDMASTER](1)
+[02:07:56]: [Shard] #11 <- session/125876545D04C587/A7KS5EOHPF8G/0000000035
+[02:07:56]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:09:04]: Serializing world: session/125876545D04C587/0000000035
+[02:09:04]: Truncating to snapshot #35...
+[02:09:04]:  - session/125876545D04C587/0000000026
+[02:09:04]:  - session/125876545D04C587/0000000027
+[02:09:04]:  - session/125876545D04C587/0000000028
+[02:09:04]:  - session/125876545D04C587/0000000029
+[02:09:04]:  - session/125876545D04C587/A7I5LJ3IH596/0000000028
+[02:09:04]:    5 file(s) removed
+[02:10:39]: Registering slave in China lobby
+[02:15:39]: Registering slave in China lobby
+[02:17:04]: Serializing world: session/125876545D04C587/0000000036
+[02:17:04]: Truncating to snapshot #36...
+[02:17:04]:  - session/125876545D04C587/0000000030
+[02:17:04]:    1 file(s) removed
+[02:18:00]: [P2P] Session timed out for 'R:76561197971080639'
+[02:18:00]: [P2P] Remove session: 193.148.55.15|1 'R:76561197971080639'
+[02:20:39]: Registering slave in China lobby
+[02:25:05]: Serializing world: session/125876545D04C587/0000000037
+[02:25:05]: Truncating to snapshot #37...
+[02:25:05]:  - session/125876545D04C587/0000000031
+[02:25:05]:  - session/125876545D04C587/A7I5LJ3IH596/0000000029
+[02:25:05]:    2 file(s) removed
+[02:25:39]: Registering slave in China lobby
+[02:30:06]: [200] Account Communication Success (6)
+[02:30:06]: Received (KU_ItJcELTd) from TokenPurpose
+[02:30:39]: Registering slave in China lobby
+[02:33:05]: Serializing world: session/125876545D04C587/0000000038
+[02:33:05]: Truncating to snapshot #38...
+[02:33:05]:  - session/125876545D04C587/0000000032
+[02:33:05]:  - session/125876545D04C587/A7I5LJ3IH596/0000000032
+[02:33:05]:  - session/125876545D04C587/A7IBEJJ3ILR7/0000000032
+[02:33:05]:  - session/125876545D04C587/A7KS5EOHPF8G/0000000032
+[02:33:05]:    4 file(s) removed
+[02:35:39]: Registering slave in China lobby
+[02:40:39]: Registering slave in China lobby
+[02:41:05]: Serializing world: session/125876545D04C587/0000000039
+[02:41:05]: Truncating to snapshot #39...
+[02:41:05]:  - session/125876545D04C587/0000000033
+[02:41:05]:  - session/125876545D04C587/A7KS5EOHPF8G/0000000033
+[02:41:05]:    2 file(s) removed
+[02:45:39]: Registering slave in China lobby
+[02:49:05]: Serializing world: session/125876545D04C587/0000000040
+[02:49:05]: Truncating to snapshot #40...
+[02:49:05]:  - session/125876545D04C587/0000000034
+[02:49:05]:  - session/125876545D04C587/A7KS5EOHPF8G/0000000034
+[02:49:05]:    2 file(s) removed
+[02:50:39]: Registering slave in China lobby
+[02:55:39]: Registering slave in China lobby
+[02:57:06]: Serializing world: session/125876545D04C587/0000000041
+[02:57:06]: Truncating to snapshot #41...
+[02:57:06]:  - session/125876545D04C587/0000000035
+[02:57:06]:    1 file(s) removed
+[03:00:06]: [200] Account Communication Success (6)
+[03:00:06]: Received (KU_ItJcELTd) from TokenPurpose
+[03:00:39]: Registering slave in China lobby
+[03:05:06]: Serializing world: session/125876545D04C587/0000000042
+[03:05:06]: Truncating to snapshot #42...
+[03:05:06]:  - session/125876545D04C587/0000000036
+[03:05:06]:    1 file(s) removed
+[03:05:39]: Registering slave in China lobby
+[03:10:39]: Registering slave in China lobby
+[03:13:06]: Serializing world: session/125876545D04C587/0000000043
+[03:13:06]: Truncating to snapshot #43...
+[03:13:06]:  - session/125876545D04C587/0000000037
+[03:13:06]:    1 file(s) removed
+[03:15:39]: Registering slave in China lobby
+[03:20:39]: Registering slave in China lobby
+[03:21:06]: Serializing world: session/125876545D04C587/0000000044
+[03:21:06]: Truncating to snapshot #44...
+[03:21:06]:  - session/125876545D04C587/0000000038
+[03:21:06]:    1 file(s) removed
+[03:21:45]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[03:21:45]: Sim paused
+[03:21:48]: [IPC] Received shutdown signal.
+[03:21:48]: Serializing world: session/125876545D04C587/0000000045
+[03:21:48]: Truncating to snapshot #45...
+[03:21:48]:  - session/125876545D04C587/0000000039
+[03:21:48]:    1 file(s) removed
+[03:21:48]: [Shard] Stopping shard mode
+[03:21:49]: Collecting garbage...
+[03:21:49]: lua_gc took 0.12 seconds
+[03:21:49]: ~ShardLuaProxy()
+[03:21:49]: ~cEventLeaderboardProxy()
+[03:21:49]: ~ItemServerLuaProxy()
+[03:21:49]: ~InventoryLuaProxy()
+[03:21:49]: ~NetworkLuaProxy()
+[03:21:49]: ~SimLuaProxy()
+[03:21:49]: lua_close took 0.27 seconds
+[03:21:49]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:21:49]: CurlRequestManager::ClientThread::Main() complete
+[03:21:49]: HttpClient2 discarded 0 callbacks.
+[03:21:49]: [Rail] Shutting down Rail
+[03:21:51]: Shutting down

@@ -1,0 +1,288 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 71%
+	Available Physical Memory: 2263m/8066m
+	Available Page File: 4280m/16879m
+	Available Virtual Memory: 4006m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 10m
+	Working Set Size: 10m
+	Quota Peak Page Pool Usage: 168k
+	Quota Page Pool Usage: 165k
+	Quota Peak Non Paged Pool Usage:15k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogetherRail/76561197971098217/Cluster_2/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 382145
+[00:00:00]: Current time: Tue Dec 03 21:01:02 2019
+
+[00:00:00]: Don't Starve Together: 382145 WIN32
+[00:00:00]: Build Date: 4883
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 116936 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogetherRail -cluster Cluster_2 -ownernetid R:76561197971098217 -ownerdir 76561197971098217 -backup_log_count 10 -backup_log_period 0 -shard Caves -sigprefix DST_Slave -region China --rail_platform_type=1 --rail_app_type=2 --rail_channel_id=1600156936 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: [Rail] Initializing Rail (2000004)
+[00:00:00]: [Rail] Rail SDK version 1.9.11.0
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (137696)
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: ProfileIndex:2.68
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (136168)
+[00:00:00]: Platform: 4
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: Overriding region to China
+[00:00:00]: THREAD - started 'StreamInput' (135556)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogetherRail/76561197971098217/client_save/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogetherRail/76561197971098217/client_save/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogetherRail/76561197971098217/client_save/whitelist.txt (Failure)
+[00:00:00]: Offline user ID: RU_76561197971098217
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogetherRail/76561197971098217/Cluster_2/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogetherRail/76561197971098217/Cluster_2/cluster_token.txt
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.17763
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3192
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      Intel(R) UHD Graphics 630
+    driverDate                20190604000000.000000-000
+    megsOfRam                 1024
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             26.20.100.6913
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/chinese_r.po	
+[00:00:01]:   taskgrouplist:	default	联机版	
+[00:00:01]:   taskgrouplist:	classic	经典	
+[00:00:01]:   taskgrouplist:	cave_default	地下	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: DownloadMods(0)
+[00:00:01]: modoverrides.lua enabling workshop-100010058	
+[00:00:01]: modoverrides.lua enabling workshop-2199027653598512929	
+[00:00:01]: modoverrides.lua enabling workshop-2199027653598511644	
+[00:00:01]: modoverrides.lua enabling workshop-100010021	
+[00:00:01]: modoverrides.lua enabling workshop-100010063	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010021	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010063	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511644	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598512929	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-100010021_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:01]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:01]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:01]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:01]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:01]: Loading mod: workshop-100010021 (提示属性显示) Version:0.186.h.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-100010058_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:01]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:01]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:01]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:01]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:01]: Loading mod: workshop-100010058 (食物属性标签) Version:1.61.h.0.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-100010063_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:01]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:01]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:01]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:01]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:01]: Loading mod: workshop-100010063 (叠加上限99) Version:1.62.h.0.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2199027653598511644_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:01]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:01]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:01]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:01]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:01]: Loading mod: workshop-2199027653598511644 (额外装备栏) Version:1.8.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2199027653598512929_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:01]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:01]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:01]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:01]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:01]: Loading mod: workshop-2199027653598512929 (传送戒指3.1-叶子) Version:3.1	
+[00:00:01]: Mod: workshop-2199027653598511644 (额外装备栏)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-2199027653598511644 (额外装备栏)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-2199027653598511644 (额外装备栏)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-100010058 (食物属性标签)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-100010058 (食物属性标签)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-100010058 (食物属性标签)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-100010021 (提示属性显示)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-100010021 (提示属性显示)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-100010021 (提示属性显示)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-100010063 (叠加上限99)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-100010063 (叠加上限99)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-100010063 (叠加上限99)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Loading modmain.lua	
+[00:00:01]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: Registering mod namespace "food item"
+[00:00:02]: Registering mod namespace "showmehint"
+[00:00:02]: Registering mod namespace "showme"
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: ServerPreferences could not load server_preferences	
+[00:00:02]: bloom_enabled	false	
+[00:00:02]: loaded saveindex	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:02]: Klump load on boot started.	
+[00:00:02]: Klump files loaded: 	0	
+[00:00:03]: Mod: workshop-2199027653598511644 (额外装备栏)	Registering prefabs	
+[00:00:03]: Mod: workshop-2199027653598511644 (额外装备栏)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-100010058 (食物属性标签)	Registering prefabs	
+[00:00:03]: Mod: workshop-100010058 (食物属性标签)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-100010021 (提示属性显示)	Registering prefabs	
+[00:00:03]: Mod: workshop-100010021 (提示属性显示)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-100010063 (叠加上限99)	Registering prefabs	
+[00:00:03]: Mod: workshop-100010063 (叠加上限99)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Registering prefabs	
+[00:00:03]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Registering prefab file: prefabs/bindingringprefabdef	
+[00:00:03]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	    bindingring	
+[00:00:03]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Registering default mod prefab	
+[00:00:03]: 	Load FE	
+[00:00:03]: 	Load FE: done	
+[00:00:03]: THREAD - started 'FilesExistAsyncThread' (136092)
+[00:00:03]: FilesExistAsyncThread started (13264 files)...
+[00:00:03]: Check for write access: TRUE
+[00:00:03]: Check for read access: TRUE
+[00:00:03]: ModIndex: Load sequence finished successfully.	
+[00:00:03]: Reset() returning
+[00:00:03]: [IPC] Signal 'DST_Slave_Kill' opened  #00000560
+[00:00:03]: [IPC] Registering handler for signal #00000560
+[00:00:03]: [IPC] Handle #00000560 added to the Eventhandles
+[00:00:03]: [IPC] Signal 'DST_Slave_Starting' opened  #000005B8
+[00:00:03]: [IPC] Sending signal... #000005B8
+[00:00:04]: [200] Account Communication Success (6)
+[00:00:04]: Received (KU_ItJcELTd) from TokenPurpose
+[00:00:04]: Starting Dedicated Server Game	
+[00:00:04]: Network tick rate: U=15(2), D=0
+[00:00:04]: ... FilesExistAsyncThread complete
+[00:00:05]: About to start a server with the following settings:
+[00:00:05]:   Dedicated: true
+[00:00:05]:   Online: true
+[00:00:05]:   Passworded: true
+[00:00:05]:   ServerPort: 10998
+[00:00:05]:   SteamAuthPort: 8766
+[00:00:05]:   SteamMasterServerPort: 27016
+[00:00:05]:   ClanID: false
+[00:00:05]:   ClanOnly: false
+[00:00:05]:   ClanAdmin: false
+[00:00:05]:   LanOnly: false
+[00:00:05]:   FriendsOnly: false
+[00:00:05]:   EnableAutosaver: true
+[00:00:05]:   EncodeUserPath: true
+[00:00:05]:   PVP: false
+[00:00:05]:   MaxPlayers: 6
+[00:00:05]:   GameMode: survival
+[00:00:05]:   OverridenDNS: 
+[00:00:05]:   PauseWhenEmpty: true
+[00:00:05]:   IdleTimeout: 1800s
+[00:00:05]:   VoteEnabled: false
+[00:00:05]:   InternetBroadcasting: true
+[00:00:05]:   Intent: social
+[00:00:05]: [Warning] Could not confirm port 10998 is open in the firewall. 
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-100010058	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2199027653598511644	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2199027653598512929	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-100010063	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-100010021	
+[00:00:05]: Online Server Started on port: 10998
+[00:00:05]: [Rail] Punchthrough start.
+[00:00:05]: [IPC] Received shutdown signal.
+[00:00:05]: [Shard] Stopping shard mode
+[00:00:05]: Collecting garbage...
+[00:00:05]: lua_gc took 0.03 seconds
+[00:00:05]: ~ShardLuaProxy()
+[00:00:05]: ~cEventLeaderboardProxy()
+[00:00:05]: ~ItemServerLuaProxy()
+[00:00:05]: ~InventoryLuaProxy()
+[00:00:05]: ~NetworkLuaProxy()
+[00:00:05]: ~SimLuaProxy()
+[00:00:05]: lua_close took 0.03 seconds
+[00:00:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:05]: CurlRequestManager::ClientThread::Main() complete
+[00:00:05]: HttpClient2 discarded 0 callbacks.
+[00:00:05]: [Rail] Shutting down Rail
+[00:00:05]: Shutting down

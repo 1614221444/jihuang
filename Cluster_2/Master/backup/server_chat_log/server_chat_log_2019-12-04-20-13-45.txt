@@ -1,0 +1,34 @@
+[00:01:01]: [Join Announcement] 蹦嚓擦
+[00:01:12]: [Join Announcement] 钟情为你
+[00:01:13]: [Join Announcement] 莽夫丨
+[00:01:27]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[00:01:28]: [Resurrect Announcement] 钟情为你 被此人复活： 复活.
+[00:05:57]: [Death Announcement] 钟情为你 死于： 黑暗. 他变成了可怕的鬼魂！
+[00:06:11]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[00:07:10]: [Say] (KU_uV8sgomj) 钟情为你: $resurrect
+[00:07:17]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[00:07:53]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[00:08:12]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[00:08:25]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[00:08:33]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[00:08:34]: [Resurrect Announcement] 钟情为你 被此人复活： 复活.
+[00:10:58]: [Death Announcement] 钟情为你 死于： 怪物鞑靼. 他变成了可怕的鬼魂！
+[00:11:21]: [Resurrect Announcement] 钟情为你 被此人复活： 复活石.
+[00:29:15]: [Death Announcement] 钟情为你 死于： 饥饿. 他变成了可怕的鬼魂！
+[00:29:22]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[00:29:23]: [Resurrect Announcement] 钟情为你 被此人复活： 复活.
+[00:41:46]: [Skin Announcement] 莽夫丨 hand_shortgloves_purple_violet
+[00:54:34]: [Skin Announcement] 钟情为你 legs_warly_victorian
+[00:59:31]: [Death Announcement] 钟情为你 死于： 蜘蛛. 他变成了可怕的鬼魂！
+[00:59:45]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[00:59:45]: [Resurrect Announcement] 钟情为你 被此人复活： 复活.
+[01:02:36]: [Death Announcement] 钟情为你 死于： 蜘蛛战士. 他变成了可怕的鬼魂！
+[01:03:01]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[01:06:31]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[01:06:32]: [Resurrect Announcement] 钟情为你 被此人复活： 莽夫丨.
+[01:09:27]: [Death Announcement] 钟情为你 死于： 黑暗. 他变成了可怕的鬼魂！
+[01:10:43]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[01:10:44]: [Resurrect Announcement] 钟情为你 被此人复活： 复活.
+[01:11:13]: [Leave Announcement] 钟情为你
+[01:25:36]: [Leave Announcement] 莽夫丨
+[01:27:13]: [Leave Announcement] 蹦嚓擦

@@ -1,0 +1,11 @@
+[00:00:41]: [Join Announcement] 蹦嚓擦
+[00:01:32]: [Join Announcement] 莽夫丨
+[00:04:53]: [Join Announcement] 钟情为你
+[00:25:39]: [Death Announcement] 钟情为你 死于： 杀人蜂. 他变成了可怕的鬼魂！
+[00:26:55]: [Say] (KU_uV8sgomj) 钟情为你: #复活
+[00:27:10]: [Say] (KU_uV8sgomj) 钟情为你: #resurrest
+[00:27:57]: [Say] (KU_uV8sgomj) 钟情为你: #re
+[00:28:08]: [Say] (KU_uV8sgomj) 钟情为你: #resurrect
+[00:29:16]: [Leave Announcement] 蹦嚓擦
+[00:29:17]: [Leave Announcement] 莽夫丨
+[00:29:17]: [Leave Announcement] 钟情为你

@@ -1,0 +1,1533 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 88%
+	Available Physical Memory: 951m/8066m
+	Available Page File: 2660m/13834m
+	Available Virtual Memory: 4006m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 10m
+	Quota Peak Page Pool Usage: 168k
+	Quota Page Pool Usage: 165k
+	Quota Peak Non Paged Pool Usage:16k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogetherRail/76561197971098217/Cluster_2/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 382145
+[00:00:00]: Current time: Wed Dec 04 20:13:44 2019
+
+[00:00:00]: Don't Starve Together: 382145 WIN32
+[00:00:00]: Build Date: 4883
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 146032 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogetherRail -cluster Cluster_2 -ownernetid R:76561197971098217 -ownerdir 76561197971098217 -backup_log_count 10 -backup_log_period 0 -shard Master -sigprefix DST_Master -region China --rail_platform_type=1 --rail_app_type=2 --rail_channel_id=1600156032 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: [Rail] Initializing Rail (2000004)
+[00:00:00]: [Rail] Rail SDK version 1.9.11.0
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (143636)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: ProfileIndex:3.03
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (145236)
+[00:00:00]: Platform: 4
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: Overriding region to China
+[00:00:01]: THREAD - started 'StreamInput' (139880)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogetherRail/76561197971098217/client_save/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogetherRail/76561197971098217/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogetherRail/76561197971098217/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: RU_76561197971098217
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogetherRail/76561197971098217/Cluster_2/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogetherRail/76561197971098217/Cluster_2/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.17763
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3192
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      Intel(R) UHD Graphics 630
+    driverDate                20190604000000.000000-000
+    megsOfRam                 1024
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             26.20.100.6913
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_r.po	
+[00:00:02]:   taskgrouplist:	default	联机版	
+[00:00:02]:   taskgrouplist:	classic	经典	
+[00:00:02]:   taskgrouplist:	cave_default	地下	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: DownloadMods(0)
+[00:00:02]: modoverrides.lua enabling workshop-100010005	
+[00:00:02]: modoverrides.lua enabling workshop-100010063	
+[00:00:02]: modoverrides.lua enabling workshop-2199027653598512929	
+[00:00:02]: modoverrides.lua enabling workshop-2199027653598511644	
+[00:00:02]: modoverrides.lua enabling workshop-100010021	
+[00:00:02]: modoverrides.lua enabling workshop-100010058	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010005	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010021	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010063	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511644	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598512929	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-100010005_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-100010005 (复活重生) Version:0.2.3.h.0.2	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-100010021_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-100010021 (提示属性显示) Version:0.186.h.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-100010058_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-100010058 (食物属性标签) Version:1.61.h.0.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-100010063_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-100010063 (叠加上限99) Version:1.62.h.0.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2199027653598511644_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-2199027653598511644 (额外装备栏) Version:1.8.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2199027653598512929_CLIENT	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:02]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:02]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:02]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:02]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:02]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:02]: Loading mod: workshop-2199027653598512929 (传送戒指3.1-叶子) Version:3.1	
+[00:00:02]: Mod: workshop-2199027653598511644 (额外装备栏)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2199027653598511644 (额外装备栏)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2199027653598511644 (额外装备栏)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010058 (食物属性标签)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010058 (食物属性标签)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010058 (食物属性标签)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010021 (提示属性显示)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010021 (提示属性显示)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010021 (提示属性显示)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010063 (叠加上限99)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010063 (叠加上限99)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010063 (叠加上限99)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010005 (复活重生)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010005 (复活重生)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010005 (复活重生)	Loading modmain.lua	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: Registering mod namespace "food item"
+[00:00:03]: Registering mod namespace "showmehint"
+[00:00:03]: Registering mod namespace "showme"
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: ServerPreferences could not load server_preferences	
+[00:00:03]: bloom_enabled	false	
+[00:00:03]: loaded saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:05]: Mod: workshop-2199027653598511644 (额外装备栏)	Registering prefabs	
+[00:00:05]: Mod: workshop-2199027653598511644 (额外装备栏)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-100010058 (食物属性标签)	Registering prefabs	
+[00:00:05]: Mod: workshop-100010058 (食物属性标签)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-100010021 (提示属性显示)	Registering prefabs	
+[00:00:05]: Mod: workshop-100010021 (提示属性显示)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-100010063 (叠加上限99)	Registering prefabs	
+[00:00:05]: Mod: workshop-100010063 (叠加上限99)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Registering prefabs	
+[00:00:05]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Registering prefab file: prefabs/bindingringprefabdef	
+[00:00:05]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	    bindingring	
+[00:00:05]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-100010005 (复活重生)	Registering prefabs	
+[00:00:05]: Mod: workshop-100010005 (复活重生)	  Registering default mod prefab	
+[00:00:05]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (134132)
+[00:00:05]: FilesExistAsyncThread started (13264 files)...
+[00:00:05]: Check for write access: TRUE
+[00:00:05]: Check for read access: TRUE
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:05]: [IPC] Signal 'DST_Master_Kill' opened  #00000598
+[00:00:05]: [IPC] Registering handler for signal #00000598
+[00:00:05]: [IPC] Handle #00000598 added to the Eventhandles
+[00:00:05]: [IPC] Signal 'DST_Master_Starting' opened  #0000055C
+[00:00:05]: [IPC] Sending signal... #0000055C
+[00:00:06]: [200] Account Communication Success (6)
+[00:00:06]: Received (KU_ItJcELTd) from TokenPurpose
+[00:00:06]: Starting Dedicated Server Game	
+[00:00:06]: Network tick rate: U=15(2), D=0
+[00:00:06]: About to start a server with the following settings:
+[00:00:06]:   Dedicated: true
+[00:00:06]:   Online: true
+[00:00:06]:   Passworded: true
+[00:00:06]:   ServerPort: 10999
+[00:00:06]:   SteamAuthPort: 8766
+[00:00:06]:   SteamMasterServerPort: 27016
+[00:00:06]:   ClanID: false
+[00:00:06]:   ClanOnly: false
+[00:00:06]:   ClanAdmin: false
+[00:00:06]:   LanOnly: false
+[00:00:06]:   FriendsOnly: false
+[00:00:06]:   EnableAutosaver: true
+[00:00:06]:   EncodeUserPath: true
+[00:00:06]:   PVP: false
+[00:00:06]:   MaxPlayers: 6
+[00:00:06]:   GameMode: survival
+[00:00:06]:   OverridenDNS: 
+[00:00:06]:   PauseWhenEmpty: true
+[00:00:06]:   IdleTimeout: 1800s
+[00:00:06]:   VoteEnabled: false
+[00:00:06]:   InternetBroadcasting: true
+[00:00:06]:   Intent: social
+[00:00:06]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-100010058	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2199027653598511644	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2199027653598512929	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-100010063	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-100010021	
+[00:00:06]: Online Server Started on port: 10999
+[00:00:06]: [Rail] Punchthrough start.
+[00:00:06]: ... FilesExistAsyncThread complete
+[00:00:06]: Collecting garbage...
+[00:00:06]: lua_gc took 0.03 seconds
+[00:00:06]: ~ShardLuaProxy()
+[00:00:06]: ~cEventLeaderboardProxy()
+[00:00:06]: ~ItemServerLuaProxy()
+[00:00:06]: ~InventoryLuaProxy()
+[00:00:06]: ~NetworkLuaProxy()
+[00:00:06]: ~SimLuaProxy()
+[00:00:06]: lua_close took 0.04 seconds
+[00:00:06]: ReleaseAll
+[00:00:06]: ReleaseAll Finished
+[00:00:06]: cGame::StartPlaying
+[00:00:06]: LOADING LUA
+[00:00:06]: DoLuaFile scripts/main.lua
+[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]: Translator:LoadPOFile - loading file: scripts/languages/chinese_r.po	
+[00:00:07]:   taskgrouplist:	default	联机版	
+[00:00:07]:   taskgrouplist:	classic	经典	
+[00:00:07]:   taskgrouplist:	cave_default	地下	
+[00:00:07]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:07]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:07]: running main.lua
+	
+[00:00:07]: unloading prefabs for mod MOD_workshop-2199027653598511644	
+[00:00:07]: unloading prefabs for mod MOD_workshop-100010058	
+[00:00:07]: unloading prefabs for mod MOD_workshop-100010021	
+[00:00:07]: unloading prefabs for mod MOD_workshop-100010063	
+[00:00:07]: unloading prefabs for mod MOD_workshop-2199027653598512929	
+[00:00:07]: unloading prefabs for mod MOD_workshop-100010005	
+[00:00:07]: loaded modindex	
+[00:00:07]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:07]: modoverrides.lua enabling workshop-100010005	
+[00:00:07]: modoverrides.lua enabling workshop-100010063	
+[00:00:07]: modoverrides.lua enabling workshop-2199027653598512929	
+[00:00:07]: modoverrides.lua enabling workshop-2199027653598511644	
+[00:00:07]: modoverrides.lua enabling workshop-100010021	
+[00:00:07]: modoverrides.lua enabling workshop-100010058	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010005	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010021	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010063	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511644	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598512929	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-100010005	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-100010005 (复活重生) Version:0.2.3.h.0.2	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-100010021	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-100010021 (提示属性显示) Version:0.186.h.1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-100010058	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-100010058 (食物属性标签) Version:1.61.h.0.1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-100010063	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-100010063 (叠加上限99) Version:1.62.h.0.1	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-2199027653598511644 (额外装备栏) Version:1.8.0	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010005	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESTART with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS_TIME with value 6	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_RESURRECT with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_IGNORING_ADMIN with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_KILL with value 3	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_WELCOME_TIPS with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESTART with value 5	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_ALLOW_KILL with value true	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_TRIGGER_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_FORCE_DROP_MODE with value 1	
+[00:00:07]: Overriding mod workshop-100010005's option MOD_RESTART_CD_RESURRECT with value 7	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010063	
+[00:00:07]: Overriding mod workshop-100010063's option MAXSTACKSIZE with value 99	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598512929	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-2199027653598511644	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010021	
+[00:00:07]: Overriding mod workshop-100010021's option food_order with value 0	
+[00:00:07]: Overriding mod workshop-100010021's option show_food_units with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_estimation with value -1	
+[00:00:07]: Overriding mod workshop-100010021's option food_style with value 0	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-100010058	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_Language with value CN	
+[00:00:07]: Overriding mod workshop-100010058's option DFV_MinimalMode with value default	
+[00:00:07]: Loading mod: workshop-2199027653598512929 (传送戒指3.1-叶子) Version:3.1	
+[00:00:07]: Mod: workshop-2199027653598511644 (额外装备栏)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-2199027653598511644 (额外装备栏)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-2199027653598511644 (额外装备栏)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-100010058 (食物属性标签)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-100010058 (食物属性标签)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-100010058 (食物属性标签)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-100010021 (提示属性显示)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-100010021 (提示属性显示)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-100010021 (提示属性显示)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-100010063 (叠加上限99)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-100010063 (叠加上限99)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-100010063 (叠加上限99)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-100010005 (复活重生)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-100010005 (复活重生)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-100010005 (复活重生)	Loading modmain.lua	
+[00:00:08]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:08]: LOADING LUA SUCCESS
+[00:00:08]: Registering mod namespace "food item"
+[00:00:08]: Registering mod namespace "showmehint"
+[00:00:08]: Registering mod namespace "showme"
+[00:00:08]: PlayerDeaths could not load morgue	
+[00:00:08]: PlayerHistory could not load player_history	
+[00:00:08]: ServerPreferences could not load server_preferences	
+[00:00:08]: bloom_enabled	false	
+[00:00:08]: loaded saveindex	
+[00:00:08]: OnFilesLoaded()	
+[00:00:08]: OnUpdatePurchaseStateComplete	
+[00:00:08]: Loading world: session/00D5299CCD233642/0000000019	
+[00:00:08]: Save file is at version 5.031	
+[00:00:08]: Klump load on boot started.	
+[00:00:08]: Klump files loaded: 	0	
+[00:00:08]: 	Unload FE	
+[00:00:08]: 	Unload FE done	
+[00:00:09]: Mod: workshop-2199027653598511644 (额外装备栏)	Registering prefabs	
+[00:00:09]: Mod: workshop-2199027653598511644 (额外装备栏)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-100010058 (食物属性标签)	Registering prefabs	
+[00:00:09]: Mod: workshop-100010058 (食物属性标签)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-100010021 (提示属性显示)	Registering prefabs	
+[00:00:09]: Mod: workshop-100010021 (提示属性显示)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-100010063 (叠加上限99)	Registering prefabs	
+[00:00:09]: Mod: workshop-100010063 (叠加上限99)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	Registering prefabs	
+[00:00:09]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Registering prefab file: prefabs/bindingringprefabdef	
+[00:00:09]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	    bindingring	
+[00:00:09]: Mod: workshop-2199027653598512929 (传送戒指3.1-叶子)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-100010005 (复活重生)	Registering prefabs	
+[00:00:09]: Mod: workshop-100010005 (复活重生)	  Registering default mod prefab	
+[00:00:09]: 	LOAD BE	
+[00:00:25]: 	LOAD BE: done	
+[00:00:25]: Begin Session: 00D5299CCD233642
+[00:00:25]: saving to server_temp/server_save	
+[00:00:25]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:25]: Loading 16 new character(s)	
+[00:00:28]: Total 16 character(s) loaded	
+[00:00:29]: Loading Nav Grid	
+[00:00:29]: World generated on version 382145, using seed: 1575377968	
+[00:00:29]: setting 	summerlength	15	
+[00:00:29]: setting 	isnightmaredawn	false	
+[00:00:29]: setting 	elapseddaysinseason	14	
+[00:00:29]: setting 	isfullmoon	false	
+[00:00:29]: setting 	moisture	2056.9694824219	
+[00:00:29]: setting 	springlength	20	
+[00:00:29]: setting 	isnightmarewild	false	
+[00:00:29]: setting 	moonphase	half	
+[00:00:29]: setting 	precipitationrate	0	
+[00:00:29]: setting 	iswet	false	
+[00:00:29]: setting 	isnewmoon	false	
+[00:00:29]: setting 	iswinter	false	
+[00:00:29]: setting 	israining	false	
+[00:00:29]: setting 	isnightmarewarn	false	
+[00:00:29]: setting 	precipitation	none	
+[00:00:29]: setting 	cavephase	day	
+[00:00:29]: setting 	moistureceil	6737.1977539063	
+[00:00:29]: setting 	isday	true	
+[00:00:29]: setting 	iscaveday	true	
+[00:00:29]: setting 	season	autumn	
+[00:00:29]: setting 	timeinphase	0.14515664236886	
+[00:00:29]: setting 	temperature	14.699664192511	
+[00:00:29]: setting 	isnightmarecalm	false	
+[00:00:29]: setting 	isnight	false	
+[00:00:29]: setting 	isdusk	false	
+[00:00:29]: setting 	iscavedusk	false	
+[00:00:29]: setting 	isautumn	true	
+[00:00:29]: setting 	issnowing	false	
+[00:00:29]: setting 	iswaxingmoon	false	
+[00:00:29]: setting 	pop	0.25182297196282	
+[00:00:29]: setting 	snowlevel	0	
+[00:00:29]: setting 	issnowcovered	false	
+[00:00:29]: setting 	autumnlength	20	
+[00:00:29]: setting 	phase	day	
+[00:00:29]: setting 	nightmaretime	0	
+[00:00:29]: setting 	winterlength	15	
+[00:00:29]: setting 	isspring	false	
+[00:00:29]: setting 	nightmarephase	none	
+[00:00:29]: setting 	remainingdaysinseason	6	
+[00:00:29]: setting 	cycles	14	
+[00:00:29]: setting 	iscavenight	false	
+[00:00:29]: setting 	nightmaretimeinphase	0	
+[00:00:29]: setting 	wetness	0	
+[00:00:29]: setting 	time	0.063506031036377	
+[00:00:29]: setting 	issummer	false	
+[00:00:34]: Reconstructing topology	
+[00:00:34]: 	...Sorting points	
+[00:00:34]: 	...Sorting edges	
+[00:00:34]: 	...Connecting nodes	
+[00:00:34]: 	...Validating connections	
+[00:00:34]: 	...Housekeeping	
+[00:00:34]: 	...Done!	
+[00:00:34]: 1 uploads added to server. From server_temp
+[00:00:34]: About to start a shard with these settings:
+[00:00:34]:   ShardName: [SHDMASTER]
+[00:00:34]:   ShardID: 1
+[00:00:34]:   ShardRole: MASTER
+[00:00:34]:   MasterHost: (null)
+[00:00:34]:   MasterBind: 127.0.0.1
+[00:00:34]:   MasterPort: 10888
+[00:00:34]: [Shard] Starting master server
+[00:00:34]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:34]: [Shard] Shard server started on port: 10888
+[00:00:34]: [IPC] Signal 'DST_Master_Ready' opened  #0000066C
+[00:00:34]: [IPC] Sending signal... #0000066C
+[00:00:34]: Telling Client our new session identifier: 00D5299CCD233642
+[00:00:34]: Check for write access: TRUE
+[00:00:34]: Check for read access: TRUE
+[00:00:34]: ModIndex: Load sequence finished successfully.	
+[00:00:34]: Reset() returning
+[00:00:34]: [Rail] Creating game server...
+[00:00:34]: [Rail] Done.
+[00:00:34]: Validating portal[10] <-> 3367953596[10] (inactive)	
+[00:00:34]: Validating portal[9] <-> 3367953596[9] (inactive)	
+[00:00:34]: Validating portal[2] <-> 3367953596[2] (inactive)	
+[00:00:34]: Validating portal[5] <-> 3367953596[5] (inactive)	
+[00:00:34]: Validating portal[3] <-> 3367953596[3] (inactive)	
+[00:00:34]: Validating portal[7] <-> 3367953596[7] (inactive)	
+[00:00:34]: Validating portal[4] <-> 3367953596[4] (inactive)	
+[00:00:34]: Validating portal[8] <-> 3367953596[8] (inactive)	
+[00:00:34]: Validating portal[6] <-> 3367953596[6] (inactive)	
+[00:00:34]: Validating portal[1] <-> 3367953596[1] (inactive)	
+[00:00:38]: Sim paused
+[00:00:38]: Registering master server in China lobby
+[00:00:38]: [Rail] Game server created.
+[00:00:38]: [P2P] Setting rail id 90071997687559393
+[00:00:38]: [Rail] WARNING: Spent 3152 milliseconds in rail calls in the last 3.61 seconds
+[00:00:38]:     RailLibrary::RailFireEvents: 0ms
+[00:00:38]: [Rail] Register to server list success.
+[00:00:39]: [Shard] Slave Caves(3367953596) connected: [LAN] 127.0.0.1
+[00:00:40]: [Shard] Slave Caves(3367953596) ready!
+[00:00:40]: World 3367953596 is now connected	
+[00:00:40]: Validating portal[10] <-> 3367953596[10] (disabled)	
+[00:00:40]: Validating portal[9] <-> 3367953596[9] (active)	
+[00:00:40]: Validating portal[2] <-> 3367953596[2] (disabled)	
+[00:00:40]: Validating portal[5] <-> 3367953596[5] (disabled)	
+[00:00:40]: Validating portal[3] <-> 3367953596[3] (disabled)	
+[00:00:40]: Validating portal[7] <-> 3367953596[7] (disabled)	
+[00:00:40]: Validating portal[4] <-> 3367953596[4] (disabled)	
+[00:00:40]: Validating portal[8] <-> 3367953596[8] (disabled)	
+[00:00:40]: Validating portal[6] <-> 3367953596[6] (disabled)	
+[00:00:40]: Validating portal[1] <-> 3367953596[1] (disabled)	
+[00:00:42]: New incoming connection 127.0.0.1|56764 <3673533928647485865>
+[00:00:42]: Client connected from [LAN] 127.0.0.1|56764 <3673533928647485865>
+[00:00:42]: ValidateGameSessionToken pgs-sing^KU_ItJcELTd^DontStarveTogether^KwsNpz2+JWS0M+xro5u9jAT7jf5WG3rpcGNOOSV3Qdg= for <3673533928647485865>
+[00:00:43]: Client authenticated: (KU_ItJcELTd) 蹦嚓擦
+[00:00:44]: There is no active event to validate against.
+[00:00:44]: [Shard] Read save location file for (KU_ItJcELTd)
+[00:00:44]: [Rail] Reporting played with: "蹦嚓擦" (R:76561197971098217).
+[00:00:44]: [Rail] Reporting player join "蹦嚓擦" (R:76561197971098217).
+[00:00:48]: Registering master server in China lobby
+[00:01:16]: Resuming user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000019
+[00:01:16]: Could not find anim build FROMNUM
+[00:01:17]: Spawning player at: [Load] (-16.06, -0.00, -416.79)	
+[00:01:17]: Sim unpaused
+[00:01:18]: Platform hopping disabled on: 蹦嚓擦	
+[00:01:23]: Registering master server in China lobby
+[00:04:44]: [P2P] Session request for '76561197971080639'
+[00:04:45]: [P2P] Create session: 93.51.133.174|1 'R:76561197971080639'
+[00:04:45]: [P2P] Received from 93.51.133.174|1 'R:76561197971080639'
+[00:04:45]: [P2P] Sent to 93.51.133.174|1 'R:76561197971080639'
+[00:04:49]: New incoming connection 93.51.133.174|1 <8531247887687787742>
+[00:04:49]: Client connected from 93.51.133.174|1 <8531247887687787742>
+[00:04:49]: ValidateGameSessionToken pgs-sing^KU_d2kn7BqG^DontStarveTogether^w0Lfc0TPOxwYUhpL/UcSrBjj+Tt6YS25B6j4eroAu5g= for <8531247887687787742>
+[00:04:50]: Client authenticated: (KU_d2kn7BqG) 莽夫丨
+[00:04:52]: There is no active event to validate against.
+[00:04:52]: [Shard] Read save location file for (KU_d2kn7BqG)
+[00:04:52]: [Rail] Reporting played with: "莽夫丨" (R:76561197971080639).
+[00:04:52]: [Rail] Reporting player join "莽夫丨" (R:76561197971080639).
+[00:04:53]: Registering master server in China lobby
+[00:05:17]: Resuming user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000018
+[00:05:17]: Could not find anim build FROMNUM
+[00:05:17]: Spawning player at: [Load] (-11.41, -0.00, -418.55)	
+[00:05:17]: Registering master server in China lobby
+[00:05:18]: Platform hopping disabled on: 莽夫丨	
+[00:06:00]: [P2P] Session request for '76561197981759635'
+[00:06:00]: [P2P] Create session: 93.51.133.175|1 'R:76561197981759635'
+[00:06:00]: [P2P] Received from 93.51.133.175|1 'R:76561197981759635'
+[00:06:00]: [P2P] Sent to 93.51.133.175|1 'R:76561197981759635'
+[00:06:00]: New incoming connection 93.51.133.175|1 <4390268743779970547>
+[00:06:00]: Client connected from 93.51.133.175|1 <4390268743779970547>
+[00:06:00]: ValidateGameSessionToken pgs-sing^KU_HQp7A9Kc^DontStarveTogether^3hXSp9FdjwJxDVYvpocAPY3fycOVySF97sZDVhzvsEI= for <4390268743779970547>
+[00:06:01]: Client authenticated: (KU_HQp7A9Kc) 别来无恙111
+[00:06:02]: There is no active event to validate against.
+[00:06:02]: [Shard] Read save location file for (KU_HQp7A9Kc)
+[00:06:02]: [Rail] Reporting played with: "别来无恙111" (R:76561197981759635).
+[00:06:02]: [Rail] Reporting player join "别来无恙111" (R:76561197981759635).
+[00:06:02]: Registering master server in China lobby
+[00:06:13]: Connection lost to 93.51.133.175|1 <4390268743779970547>
+[00:06:13]: [Shard] (KU_HQp7A9Kc) disconnected from [SHDMASTER](1)
+[00:06:14]: [Rail] Reporting player quit "别来无恙111" (R:76561197981759635).
+[00:06:14]: Registering master server in China lobby
+[00:06:18]: New incoming connection 93.51.133.175|1 <9068570882604528572>
+[00:06:18]: Client connected from 93.51.133.175|1 <9068570882604528572>
+[00:06:18]: ValidateGameSessionToken pgs-sing^KU_HQp7A9Kc^DontStarveTogether^RsAA+d4pxvGNsyDnhEaZMVJTszBCKi3MGKFfqN7SWUg= for <9068570882604528572>
+[00:06:19]: Client authenticated: (KU_HQp7A9Kc) 别来无恙111
+[00:06:20]: There is no active event to validate against.
+[00:06:20]: [Shard] Read save location file for (KU_HQp7A9Kc)
+[00:06:20]: [Rail] Reporting played with: "别来无恙111" (R:76561197981759635).
+[00:06:20]: [Rail] Reporting player join "别来无恙111" (R:76561197981759635).
+[00:06:24]: Registering master server in China lobby
+[00:06:28]: Connection lost to 93.51.133.175|1 <9068570882604528572>
+[00:06:28]: [Shard] (KU_HQp7A9Kc) disconnected from [SHDMASTER](1)
+[00:06:28]: [Rail] Reporting player quit "别来无恙111" (R:76561197981759635).
+[00:06:34]: Registering master server in China lobby
+[00:06:37]: [P2P] Received from 93.51.133.175|1 'R:76561197981759635'
+[00:06:38]: New incoming connection 93.51.133.175|1 <7489811485350429403>
+[00:06:38]: Client connected from 93.51.133.175|1 <7489811485350429403>
+[00:06:38]: ValidateGameSessionToken pgs-sing^KU_HQp7A9Kc^DontStarveTogether^pKGybjkedckOP4ej5/kIcObmvYiaSCOLkX+FfsNx8oc= for <7489811485350429403>
+[00:06:39]: Client authenticated: (KU_HQp7A9Kc) 别来无恙111
+[00:06:40]: There is no active event to validate against.
+[00:06:40]: [Shard] Read save location file for (KU_HQp7A9Kc)
+[00:06:40]: [Rail] Reporting played with: "别来无恙111" (R:76561197981759635).
+[00:06:40]: [Rail] Reporting player join "别来无恙111" (R:76561197981759635).
+[00:06:44]: Registering master server in China lobby
+[00:07:27]: Resuming user: session/00D5299CCD233642/A7I5LJ3IH596
+[00:07:54]: Spawn request: wilson from 别来无恙111
+[00:07:54]: Skin request: (wilson_pigguard) () () () (feet_buckle_shoe_black_jet)
+[00:07:54]: Could not find anim build FROMNUM
+[00:07:54]: Spawning player at: [Fixed] (114.00, 0.00, -222.00)	
+[00:07:54]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000020
+[00:07:54]: Registering master server in China lobby
+[00:07:55]: Platform hopping disabled on: 别来无恙111	
+[00:08:48]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000020
+[00:08:48]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000020
+[00:08:48]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000020
+[00:08:48]: Serializing world: session/00D5299CCD233642/0000000020
+[00:08:54]: Registering master server in China lobby
+[00:16:08]: [P2P] Session request for '76561197981229727'
+[00:16:08]: [P2P] Create session: 93.51.133.176|1 'R:76561197981229727'
+[00:16:08]: [P2P] Received from 93.51.133.176|1 'R:76561197981229727'
+[00:16:08]: [P2P] Sent to 93.51.133.176|1 'R:76561197981229727'
+[00:16:08]: New incoming connection 93.51.133.176|1 <3660702514745979606>
+[00:16:08]: Client connected from 93.51.133.176|1 <3660702514745979606>
+[00:16:08]: ValidateGameSessionToken pgs-sing^KU_uV8sgomj^DontStarveTogether^dyuhJngKN1UCgO7Gt7i0SqIgP/tnLvSkC52IRh/TMjo= for <3660702514745979606>
+[00:16:09]: Client authenticated: (KU_uV8sgomj) 钟情为你
+[00:16:10]: There is no active event to validate against.
+[00:16:10]: [Shard] Read save location file for (KU_uV8sgomj)
+[00:16:10]: [Rail] Reporting played with: "钟情为你" (R:76561197981229727).
+[00:16:10]: [Rail] Reporting player join "钟情为你" (R:76561197981229727).
+[00:16:10]: Registering master server in China lobby
+[00:16:39]: Resuming user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000017
+[00:16:39]: Could not find anim build FROMNUM
+[00:16:39]: Spawning player at: [Load] (-15.46, 0.00, -422.87)	
+[00:16:40]: Platform hopping disabled on: 钟情为你	
+[00:16:45]: Registering master server in China lobby
+[00:16:48]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000021
+[00:16:48]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000021
+[00:16:48]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000021
+[00:16:48]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000021
+[00:16:48]: Serializing world: session/00D5299CCD233642/0000000021
+[00:16:55]: Registering master server in China lobby
+[00:24:47]: Registering master server in China lobby
+[00:24:48]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000022
+[00:24:48]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000022
+[00:24:48]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000022
+[00:24:48]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000022
+[00:24:48]: Serializing world: session/00D5299CCD233642/0000000022
+[00:27:16]: Could not find anim [death] in bank [ghost]
+[00:27:16]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000023
+[00:27:37]: Could not find anim [idle_loop] in bank [ghost]
+[00:27:40]: Could not find anim [transform] in bank [wilson]
+[00:27:41]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000023
+[00:30:06]: [200] Account Communication Success (6)
+[00:30:06]: Received (KU_ItJcELTd) from TokenPurpose
+[00:32:48]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000023
+[00:32:48]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000023
+[00:32:48]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000023
+[00:32:48]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000023
+[00:32:49]: Serializing world: session/00D5299CCD233642/0000000023
+[00:32:52]: Registering master server in China lobby
+[00:40:49]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000024
+[00:40:49]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000024
+[00:40:49]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000024
+[00:40:49]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000024
+[00:40:49]: Serializing world: session/00D5299CCD233642/0000000024
+[00:40:58]: Registering master server in China lobby
+[00:46:52]: Could not find anim [death] in bank [ghost]
+[00:46:52]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000025
+[00:47:50]: Could not find anim [death] in bank [ghost]
+[00:47:50]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000025
+[00:48:18]: Could not find anim [death] in bank [ghost]
+[00:48:18]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000025
+[00:48:37]: Could not find anim [idle_loop] in bank [ghost]
+[00:48:39]: Could not find anim [death] in bank [ghost]
+[00:48:39]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000025
+[00:48:40]: Could not find anim [transform] in bank [wilson]
+[00:48:41]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000025
+[00:48:48]: Registering master server in China lobby
+[00:48:49]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000025
+[00:48:49]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000025
+[00:48:49]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000025
+[00:48:49]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000025
+[00:48:49]: Serializing world: session/00D5299CCD233642/0000000025
+[00:48:59]: Could not find anim [idle_loop] in bank [ghost]
+[00:49:03]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000026
+[00:49:16]: Could not find anim [death] in bank [ghost]
+[00:49:16]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000026
+[00:49:26]: Could not find anim [idle_loop] in bank [ghost]
+[00:49:29]: Could not find anim [transform] in bank [wilson]
+[00:49:30]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000026
+[00:52:25]: Could not find anim [death] in bank [ghost]
+[00:52:25]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000026
+[00:53:24]: Could not find anim [idle_loop] in bank [ghost]
+[00:53:27]: Could not find anim [transform] in bank [wilson]
+[00:53:28]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000026
+[00:54:01]: Could not find anim [death] in bank [ghost]
+[00:54:01]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000026
+[00:56:24]: CURL ERROR: (dst.metrics.klei.com) Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[00:56:49]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000026
+[00:56:49]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000026
+[00:56:49]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000026
+[00:56:49]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000026
+[00:56:49]: Serializing world: session/00D5299CCD233642/0000000026
+[00:56:53]: Registering master server in China lobby
+[00:56:57]: Could not find anim [idle_loop] in bank [ghost]
+[00:57:00]: Could not find anim [transform] in bank [wilson]
+[00:57:01]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000027
+[00:57:34]: Could not find anim [idle_loop] in bank [ghost]
+[00:57:37]: Could not find anim [transform] in bank [wilson]
+[00:57:39]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000027
+[00:58:14]: Could not find anim [death] in bank [ghost]
+[00:58:14]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000027
+[01:00:08]: [200] Account Communication Success (6)
+[01:00:08]: Received (KU_ItJcELTd) from TokenPurpose
+[01:00:21]: Could not find anim [idle_loop] in bank [ghost]
+[01:00:24]: Could not find anim [transform] in bank [wilson]
+[01:00:25]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000027
+[01:01:30]: CURL ERROR: (dst.metrics.klei.com) Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[01:01:46]: Could not find anim [death] in bank [ghost]
+[01:01:46]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000027
+[01:04:52]: Could not find anim [idle_loop] in bank [ghost]
+[01:04:55]: Could not find anim [transform] in bank [wilson]
+[01:04:56]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000027
+[01:04:56]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000027
+[01:04:56]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000027
+[01:04:56]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000027
+[01:04:56]: Serializing world: session/00D5299CCD233642/0000000027
+[01:04:57]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000028
+[01:04:59]: Registering master server in China lobby
+[01:05:09]: Could not find anim [death] in bank [ghost]
+[01:05:09]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000028
+[01:05:20]: Could not find anim [idle_loop] in bank [ghost]
+[01:05:23]: Could not find anim [transform] in bank [wilson]
+[01:05:25]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000028
+[01:05:45]: Could not find anim [death] in bank [ghost]
+[01:05:45]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000028
+[01:11:04]: Activating portal[9] to 3367953596	
+[01:11:05]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000028
+[01:11:05]: [Shard] Migration request: (KU_HQp7A9Kc) to Caves(3367953596)
+[01:11:05]: [Shard] Begin migration #1 for (KU_HQp7A9Kc)
+[01:11:05]: [Shard] #1 [SHDMASTER](1) -> Caves(3367953596)
+[01:11:05]: [Shard] #1 <- session/00D5299CCD233642/A7I5LJ3IH596/0000000028
+[01:11:05]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:11:05]: Ignored request to resume during migration
+[01:11:05]: [Shard] (KU_HQp7A9Kc) disconnected from [SHDMASTER](1)
+[01:11:12]: [Shard] Completed migration #1 for player (KU_HQp7A9Kc)
+[01:11:12]: [Shard] Writing save location file for (KU_HQp7A9Kc)
+[01:12:18]: Could not find anim [idle_loop] in bank [ghost]
+[01:12:21]: Could not find anim [transform] in bank [wilson]
+[01:12:22]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000028
+[01:12:56]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000028
+[01:12:56]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000028
+[01:12:56]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000028
+[01:12:56]: Serializing world: session/00D5299CCD233642/0000000028
+[01:13:04]: Registering master server in China lobby
+[01:13:08]: Could not find anim [idle_loop] in bank [ghost]
+[01:13:11]: Could not find anim [transform] in bank [wilson]
+[01:13:12]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000029
+[01:13:43]: [Shard] Begin migration #2 for (KU_HQp7A9Kc)
+[01:13:43]: [Shard] #2 Caves(3367953596) -> [SHDMASTER](1)
+[01:13:43]: [Shard] #2 -> session/00D5299CCD233642/A7I5LJ3IH596/0000000029
+[01:13:43]: [Shard] Received migration #2 data for (KU_HQp7A9Kc)
+[01:13:43]: [Shard] (KU_HQp7A9Kc) disconnected from Caves(3367953596)
+[01:13:47]: [P2P] Received from 93.51.133.175|1 'R:76561197981759635'
+[01:13:47]: [P2P] Sent to 93.51.133.175|1 'R:76561197981759635'
+[01:13:48]: New incoming connection 93.51.133.175|1 <3936208195481342314>
+[01:13:48]: Client connected from 93.51.133.175|1 <3936208195481342314>
+[01:13:48]: ValidateGameSessionToken pgs-sing^KU_HQp7A9Kc^DontStarveTogether^lcbmm88Qo2FHSDclH64Ujbc6/TxcKe799BoakPTNAYo= for <3936208195481342314>
+[01:13:49]: Client authenticated: (KU_HQp7A9Kc) 别来无恙111
+[01:13:50]: [Shard] Completed incoming migration #2 for (KU_HQp7A9Kc)
+[01:13:50]: [Shard] Completed migration #2 for player (KU_HQp7A9Kc)
+[01:13:50]: [Shard] Writing save location file for (KU_HQp7A9Kc)
+[01:14:11]: Resuming user: session/00D5299CCD233642/A7I5LJ3IH596/0000000029
+[01:14:11]: Could not find anim build FROMNUM
+[01:14:11]: Player will spawn close to portal #9	
+[01:14:11]: Spawning player at: [Load] (-251.73, 0.00, -565.17)	
+[01:14:12]: Platform hopping disabled on: 别来无恙111	
+[01:16:12]: Could not find anim [death] in bank [ghost]
+[01:16:12]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000029
+[01:16:31]: CURL ERROR: (dst.metrics.klei.com) Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[01:16:43]: Could not find anim [death] in bank [ghost]
+[01:16:43]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000029
+[01:17:33]: Could not find anim [idle_loop] in bank [ghost]
+[01:17:36]: Could not find anim [transform] in bank [wilson]
+[01:17:38]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000029
+[01:20:55]: Registering master server in China lobby
+[01:20:56]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000029
+[01:20:56]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000029
+[01:20:56]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000029
+[01:20:56]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000029
+[01:20:57]: Serializing world: session/00D5299CCD233642/0000000029
+[01:23:23]: Could not find anim [idle_loop] in bank [ghost]
+[01:23:26]: Could not find anim [transform] in bank [wilson]
+[01:23:27]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000030
+[01:29:02]: Registering master server in China lobby
+[01:29:03]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000030
+[01:29:03]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000030
+[01:29:03]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000030
+[01:29:03]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000030
+[01:29:03]: Serializing world: session/00D5299CCD233642/0000000030
+[01:29:07]: Could not find anim [death] in bank [ghost]
+[01:29:07]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000031
+[01:29:55]: Could not find anim [death] in bank [ghost]
+[01:29:55]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000031
+[01:30:06]: [200] Account Communication Success (6)
+[01:30:06]: Received (KU_ItJcELTd) from TokenPurpose
+[01:30:17]: Could not find anim [idle_loop] in bank [ghost]
+[01:30:20]: Could not find anim [transform] in bank [wilson]
+[01:30:21]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000031
+[01:36:35]: Could not find anim [death] in bank [ghost]
+[01:36:35]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000031
+[01:36:57]: Could not find anim [idle_loop] in bank [ghost]
+[01:37:00]: Could not find anim [transform] in bank [wilson]
+[01:37:01]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000031
+[01:37:03]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000031
+[01:37:03]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000031
+[01:37:03]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000031
+[01:37:03]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000031
+[01:37:03]: Serializing world: session/00D5299CCD233642/0000000031
+[01:37:07]: Registering master server in China lobby
+[01:38:22]: [Kick] (KU_ItJcELTd) 蹦嚓擦 kicked (KU_uV8sgomj) 钟情为你
+[01:38:22]: CloseConnectionWithReason: ID_DST_USER_KICKED
+[01:38:22]: [Shard] (KU_uV8sgomj) disconnected from [SHDMASTER](1)
+[01:38:22]: [Rail] Reporting player quit "钟情为你" (R:76561197981229727).
+[01:38:23]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000032
+[01:38:32]: Registering master server in China lobby
+[01:41:19]: Validating portal[3] <-> 3367953596[3] (active)	
+[01:41:25]: Activating portal[3] to 3367953596	
+[01:41:26]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000032
+[01:41:26]: [Shard] Migration request: (KU_d2kn7BqG) to Caves(3367953596)
+[01:41:26]: [Shard] Begin migration #3 for (KU_d2kn7BqG)
+[01:41:26]: [Shard] #3 [SHDMASTER](1) -> Caves(3367953596)
+[01:41:26]: [Shard] #3 <- session/00D5299CCD233642/A7KS5EOHPF8G/0000000032
+[01:41:26]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:41:26]: [Shard] (KU_d2kn7BqG) disconnected from [SHDMASTER](1)
+[01:41:36]: [Shard] Completed migration #3 for player (KU_d2kn7BqG)
+[01:41:36]: [Shard] Writing save location file for (KU_d2kn7BqG)
+[01:42:35]: [Shard] Begin migration #4 for (KU_d2kn7BqG)
+[01:42:35]: [Shard] #4 Caves(3367953596) -> [SHDMASTER](1)
+[01:42:35]: [Shard] #4 -> session/00D5299CCD233642/A7KS5EOHPF8G/0000000032
+[01:42:35]: [Shard] Received migration #4 data for (KU_d2kn7BqG)
+[01:42:35]: [Shard] (KU_d2kn7BqG) disconnected from Caves(3367953596)
+[01:42:39]: [P2P] Received from 93.51.133.174|1 'R:76561197971080639'
+[01:42:39]: [P2P] Sent to 93.51.133.174|1 'R:76561197971080639'
+[01:42:41]: New incoming connection 93.51.133.174|1 <6640567404711724016>
+[01:42:41]: Client connected from 93.51.133.174|1 <6640567404711724016>
+[01:42:41]: ValidateGameSessionToken pgs-sing^KU_d2kn7BqG^DontStarveTogether^pJdrZKdJDJa8WzX6M80eChBALzoNI4fkPbHFEOZ4uDg= for <6640567404711724016>
+[01:42:42]: Client authenticated: (KU_d2kn7BqG) 莽夫丨
+[01:42:42]: [Shard] Completed incoming migration #4 for (KU_d2kn7BqG)
+[01:42:42]: [Shard] Completed migration #4 for player (KU_d2kn7BqG)
+[01:42:42]: [Shard] Writing save location file for (KU_d2kn7BqG)
+[01:42:59]: Resuming user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000032
+[01:42:59]: Could not find anim build FROMNUM
+[01:42:59]: Player will spawn close to portal #3	
+[01:42:59]: Spawning player at: [Load] (29.81, 0.00, -288.57)	
+[01:43:00]: Platform hopping disabled on: 莽夫丨	
+[01:44:28]: Activating portal[3] to 3367953596	
+[01:44:28]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000032
+[01:44:28]: [Shard] Migration request: (KU_d2kn7BqG) to Caves(3367953596)
+[01:44:28]: [Shard] Begin migration #5 for (KU_d2kn7BqG)
+[01:44:28]: [Shard] #5 [SHDMASTER](1) -> Caves(3367953596)
+[01:44:28]: [Shard] #5 <- session/00D5299CCD233642/A7KS5EOHPF8G/0000000032
+[01:44:28]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:44:28]: [Shard] (KU_d2kn7BqG) disconnected from [SHDMASTER](1)
+[01:44:33]: Activating portal[3] to 3367953596	
+[01:44:34]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000032
+[01:44:34]: [Shard] Migration request: (KU_ItJcELTd) to Caves(3367953596)
+[01:44:34]: [Shard] Begin migration #6 for (KU_ItJcELTd)
+[01:44:34]: [Shard] #6 [SHDMASTER](1) -> Caves(3367953596)
+[01:44:34]: [Shard] #6 <- session/00D5299CCD233642/A7IBEJJ3ILR7/0000000032
+[01:44:34]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:44:34]: [Shard] (KU_ItJcELTd) disconnected from [SHDMASTER](1)
+[01:44:36]: [Shard] Completed migration #5 for player (KU_d2kn7BqG)
+[01:44:36]: [Shard] Writing save location file for (KU_d2kn7BqG)
+[01:44:41]: [Shard] Completed migration #6 for player (KU_ItJcELTd)
+[01:44:41]: [Shard] Writing save location file for (KU_ItJcELTd)
+[01:44:41]: [P2P] Session request for '76561197981229727'
+[01:44:41]: [P2P] Received from 93.51.133.176|1 'R:76561197981229727'
+[01:44:41]: [P2P] Sent to 93.51.133.176|1 'R:76561197981229727'
+[01:44:42]: New incoming connection 93.51.133.176|1 <3869727790829667582>
+[01:44:42]: Client connected from 93.51.133.176|1 <3869727790829667582>
+[01:44:42]: ValidateGameSessionToken pgs-sing^KU_uV8sgomj^DontStarveTogether^dczJ7iKAk4aFu2iyPoOzODoIJccTEXQiFjuzloDZW2U= for <3869727790829667582>
+[01:44:43]: Client authenticated: (KU_uV8sgomj) 钟情为你
+[01:44:45]: There is no active event to validate against.
+[01:44:45]: [Shard] Read save location file for (KU_uV8sgomj)
+[01:44:45]: [Rail] Reporting played with: "钟情为你" (R:76561197981229727).
+[01:44:45]: [Rail] Reporting player join "钟情为你" (R:76561197981229727).
+[01:44:45]: Registering master server in China lobby
+[01:44:55]: Activating portal[3] to 3367953596	
+[01:44:55]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000032
+[01:44:55]: [Shard] Migration request: (KU_HQp7A9Kc) to Caves(3367953596)
+[01:44:55]: [Shard] Begin migration #7 for (KU_HQp7A9Kc)
+[01:44:55]: [Shard] #7 [SHDMASTER](1) -> Caves(3367953596)
+[01:44:55]: [Shard] #7 <- session/00D5299CCD233642/A7I5LJ3IH596/0000000032
+[01:44:55]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:44:56]: [Shard] (KU_HQp7A9Kc) disconnected from [SHDMASTER](1)
+[01:44:57]: Resuming user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000032
+[01:44:57]: Could not find anim build FROMNUM
+[01:44:57]: Could not find anim [idle_loop] in bank [ghost]
+[01:44:57]: Spawning player at: [Load] (-15.21, -0.00, -417.83)	
+[01:44:57]: Registering master server in China lobby
+[01:44:57]: Platform hopping disabled on: 钟情为你	
+[01:45:01]: [Shard] Completed migration #7 for player (KU_HQp7A9Kc)
+[01:45:01]: [Shard] Writing save location file for (KU_HQp7A9Kc)
+[01:45:03]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000032
+[01:45:04]: Serializing world: session/00D5299CCD233642/0000000032
+[01:45:07]: Registering master server in China lobby
+[01:46:07]: [P2P] Received from 93.51.133.174|1 'R:76561197971080639'
+[01:46:07]: [P2P] Sent to 93.51.133.174|1 'R:76561197971080639'
+[01:46:08]: [Shard] Begin migration #8 for (KU_ItJcELTd)
+[01:46:08]: [Shard] #8 Caves(3367953596) -> [SHDMASTER](1)
+[01:46:08]: [Shard] #8 -> session/00D5299CCD233642/A7IBEJJ3ILR7/0000000033
+[01:46:08]: [Shard] Received migration #8 data for (KU_ItJcELTd)
+[01:46:08]: [Shard] (KU_ItJcELTd) disconnected from Caves(3367953596)
+[01:46:09]: [Shard] (KU_d2kn7BqG) disconnected from Caves(3367953596)
+[01:46:09]: [Rail] Reporting player quit "莽夫丨" (R:76561197971080639).
+[01:46:09]: Registering master server in China lobby
+[01:46:12]: New incoming connection 93.51.133.174|1 <8508464398767424267>
+[01:46:12]: Client connected from 93.51.133.174|1 <8508464398767424267>
+[01:46:12]: ValidateGameSessionToken pgs-sing^KU_d2kn7BqG^DontStarveTogether^g4WiunWBx8j2FjB0ZuitH3I0pdl/GhhvR1aFsjoG/Rw= for <8508464398767424267>
+[01:46:12]: New incoming connection 127.0.0.1|58158 <3340681887754205686>
+[01:46:12]: Client connected from [LAN] 127.0.0.1|58158 <3340681887754205686>
+[01:46:12]: ValidateGameSessionToken pgs-sing^KU_ItJcELTd^DontStarveTogether^IvQgIlRQ5rzRa0Do3WUealzY4Agf41vSftn85yT/AMQ= for <3340681887754205686>
+[01:46:13]: Client authenticated: (KU_ItJcELTd) 蹦嚓擦
+[01:46:13]: [Shard] Completed incoming migration #8 for (KU_ItJcELTd)
+[01:46:13]: [Shard] Completed migration #8 for player (KU_ItJcELTd)
+[01:46:13]: [Shard] Writing save location file for (KU_ItJcELTd)
+[01:46:30]: Connection lost to 93.51.133.174|1 <8508464398767424267>
+[01:46:38]: [Shard] Begin migration #9 for (KU_HQp7A9Kc)
+[01:46:38]: [Shard] #9 Caves(3367953596) -> [SHDMASTER](1)
+[01:46:38]: [Shard] #9 -> session/00D5299CCD233642/A7I5LJ3IH596/0000000033
+[01:46:38]: [Shard] Received migration #9 data for (KU_HQp7A9Kc)
+[01:46:38]: [Shard] (KU_HQp7A9Kc) disconnected from Caves(3367953596)
+[01:46:39]: [P2P] Received from 93.51.133.174|1 'R:76561197971080639'
+[01:46:39]: New incoming connection 93.51.133.174|1 <6746702520662151341>
+[01:46:39]: Client connected from 93.51.133.174|1 <6746702520662151341>
+[01:46:39]: ValidateGameSessionToken pgs-sing^KU_d2kn7BqG^DontStarveTogether^Ny9T7oaoQGJWvLivumi7pca1BtvxyJJzA01lXALeUGQ= for <6746702520662151341>
+[01:46:40]: Client authenticated: (KU_d2kn7BqG) 莽夫丨
+[01:46:40]: Resuming user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000033
+[01:46:40]: Could not find anim build FROMNUM
+[01:46:40]: Player will spawn close to portal #3	
+[01:46:40]: Spawning player at: [Load] (27.58, 0.00, -287.19)	
+[01:46:41]: Platform hopping disabled on: 蹦嚓擦	
+[01:46:41]: There is no active event to validate against.
+[01:46:41]: [Shard] Read save location file for (KU_d2kn7BqG)
+[01:46:41]: [Shard] Forwarding player to Caves(3367953596)
+[01:46:41]: [Shard] Begin migration #10 for (KU_d2kn7BqG)
+[01:46:41]: [Shard] #10 [SHDMASTER](1) -> Caves(3367953596)
+[01:46:41]: [Rail] Reporting played with: "莽夫丨" (R:76561197971080639).
+[01:46:41]: [Rail] Reporting player join "莽夫丨" (R:76561197971080639).
+[01:46:41]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:46:41]: [Shard] (KU_d2kn7BqG) disconnected from [SHDMASTER](1)
+[01:46:42]: [P2P] Received from 93.51.133.175|1 'R:76561197981759635'
+[01:46:42]: [P2P] Sent to 93.51.133.175|1 'R:76561197981759635'
+[01:46:43]: New incoming connection 93.51.133.175|1 <2173966674792780439>
+[01:46:43]: Client connected from 93.51.133.175|1 <2173966674792780439>
+[01:46:43]: ValidateGameSessionToken pgs-sing^KU_HQp7A9Kc^DontStarveTogether^AZbW/xyNCSdTY19PrwYD+ZtdDc167qYXfY7BZkUAQic= for <2173966674792780439>
+[01:46:43]: Client authenticated: (KU_HQp7A9Kc) 别来无恙111
+[01:46:44]: [Shard] Completed incoming migration #9 for (KU_HQp7A9Kc)
+[01:46:44]: [Shard] Completed migration #9 for player (KU_HQp7A9Kc)
+[01:46:44]: [Shard] Writing save location file for (KU_HQp7A9Kc)
+[01:46:44]: Registering master server in China lobby
+[01:46:48]: [Shard] Completed migration #10 for player (KU_d2kn7BqG)
+[01:46:48]: [Shard] Writing save location file for (KU_d2kn7BqG)
+[01:46:57]: Resuming user: session/00D5299CCD233642/A7I5LJ3IH596/0000000033
+[01:46:57]: Could not find anim build FROMNUM
+[01:46:57]: Player will spawn close to portal #3	
+[01:46:57]: Spawning player at: [Load] (27.52, 0.00, -289.78)	
+[01:46:58]: Platform hopping disabled on: 别来无恙111	
+[01:47:06]: Registering master server in China lobby
+[01:47:43]: Could not find anim [idle_loop] in bank [ghost]
+[01:47:46]: Could not find anim [transform] in bank [wilson]
+[01:47:47]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000033
+[01:47:55]: Could not find anim [death] in bank [ghost]
+[01:47:55]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000033
+[01:48:16]: Could not find anim [idle_loop] in bank [ghost]
+[01:48:19]: Could not find anim [transform] in bank [wilson]
+[01:48:20]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000033
+[01:53:04]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000033
+[01:53:04]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000033
+[01:53:04]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000033
+[01:53:04]: Serializing world: session/00D5299CCD233642/0000000033
+[01:53:06]: Registering master server in China lobby
+[01:55:05]: Could not find anim [death] in bank [ghost]
+[01:55:05]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000034
+[01:55:29]: Could not find anim [idle_loop] in bank [ghost]
+[01:55:31]: Could not find anim [transform] in bank [wilson]
+[01:55:33]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000034
+[01:56:44]: [P2P] Session timed out for 'R:76561197971080639'
+[01:56:44]: [P2P] Remove session: 93.51.133.174|1 'R:76561197971080639'
+[01:56:46]: Could not find anim [death] in bank [ghost]
+[01:56:46]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000034
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_ItJcELTd) from TokenPurpose
+[02:01:04]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000034
+[02:01:04]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000034
+[02:01:04]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000034
+[02:01:04]: Serializing world: session/00D5299CCD233642/0000000034
+[02:01:11]: Registering master server in China lobby
+[02:01:31]: Could not find anim [death] in bank [ghost]
+[02:01:31]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000035
+[02:01:42]: Could not find anim [idle_loop] in bank [ghost]
+[02:01:45]: Could not find anim [transform] in bank [wilson]
+[02:01:46]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000035
+[02:02:39]: Could not find anim [death] in bank [ghost]
+[02:02:39]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000035
+[02:02:50]: Could not find anim [idle_loop] in bank [ghost]
+[02:02:53]: Could not find anim [transform] in bank [wilson]
+[02:02:54]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000035
+[02:07:56]: [Shard] Begin migration #11 for (KU_d2kn7BqG)
+[02:07:56]: [Shard] #11 Caves(3367953596) -> [SHDMASTER](1)
+[02:07:56]: [Shard] #11 -> session/00D5299CCD233642/A7KS5EOHPF8G/0000000035
+[02:07:56]: [Shard] Received migration #11 data for (KU_d2kn7BqG)
+[02:07:56]: [Shard] (KU_d2kn7BqG) disconnected from Caves(3367953596)
+[02:08:01]: [P2P] Session request for '76561197971080639'
+[02:08:01]: [P2P] Create session: 93.51.133.177|1 'R:76561197971080639'
+[02:08:01]: [P2P] Received from 93.51.133.177|1 'R:76561197971080639'
+[02:08:01]: [P2P] Sent to 93.51.133.177|1 'R:76561197971080639'
+[02:08:02]: New incoming connection 93.51.133.177|1 <8706898144974164053>
+[02:08:02]: Client connected from 93.51.133.177|1 <8706898144974164053>
+[02:08:02]: ValidateGameSessionToken pgs-sing^KU_d2kn7BqG^DontStarveTogether^nUs190qJPSnrqvex+DBMmVrTZzXwNGSW/INCE7AkSYk= for <8706898144974164053>
+[02:08:03]: Client authenticated: (KU_d2kn7BqG) 莽夫丨
+[02:08:03]: [Shard] Completed incoming migration #11 for (KU_d2kn7BqG)
+[02:08:03]: [Shard] Completed migration #11 for player (KU_d2kn7BqG)
+[02:08:03]: [Shard] Writing save location file for (KU_d2kn7BqG)
+[02:08:18]: Resuming user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000035
+[02:08:18]: Could not find anim build FROMNUM
+[02:08:18]: Player will spawn close to portal #3	
+[02:08:18]: Spawning player at: [Load] (27.38, 0.00, -287.33)	
+[02:08:18]: Platform hopping disabled on: 莽夫丨	
+[02:09:03]: Registering master server in China lobby
+[02:09:04]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000035
+[02:09:04]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000035
+[02:09:04]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000035
+[02:09:04]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000035
+[02:09:04]: Serializing world: session/00D5299CCD233642/0000000035
+[02:09:29]: Could not find anim [idle_loop] in bank [ghost]
+[02:09:32]: Could not find anim [transform] in bank [wilson]
+[02:09:33]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000036
+[02:11:04]: Could not find anim [death] in bank [ghost]
+[02:11:04]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000036
+[02:11:49]: Could not find anim [death] in bank [ghost]
+[02:11:49]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000036
+[02:11:57]: Could not find anim [idle_loop] in bank [ghost]
+[02:12:00]: Could not find anim [transform] in bank [wilson]
+[02:12:01]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000036
+[02:12:16]: Could not find anim [death] in bank [ghost]
+[02:12:16]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000036
+[02:12:23]: Could not find anim [idle_loop] in bank [ghost]
+[02:12:26]: Could not find anim [transform] in bank [wilson]
+[02:12:28]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000036
+[02:12:48]: Could not find anim [death] in bank [ghost]
+[02:12:48]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000036
+[02:13:15]: Could not find anim [idle_loop] in bank [ghost]
+[02:13:18]: Could not find anim [transform] in bank [wilson]
+[02:13:19]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000036
+[02:17:04]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000036
+[02:17:04]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000036
+[02:17:04]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000036
+[02:17:04]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000036
+[02:17:05]: Serializing world: session/00D5299CCD233642/0000000036
+[02:17:08]: Registering master server in China lobby
+[02:25:05]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000037
+[02:25:05]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000037
+[02:25:05]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000037
+[02:25:05]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000037
+[02:25:05]: Serializing world: session/00D5299CCD233642/0000000037
+[02:25:13]: Registering master server in China lobby
+[02:26:06]: Could not find anim [idle_loop] in bank [ghost]
+[02:26:09]: Could not find anim [transform] in bank [wilson]
+[02:26:10]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000038
+[02:30:06]: [200] Account Communication Success (6)
+[02:30:06]: Received (KU_ItJcELTd) from TokenPurpose
+[02:30:38]: Could not find anim [death] in bank [ghost]
+[02:30:38]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000038
+[02:30:45]: Could not find anim [death] in bank [ghost]
+[02:30:45]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000038
+[02:30:47]: Could not find anim [idle_loop] in bank [ghost]
+[02:30:50]: Could not find anim [transform] in bank [wilson]
+[02:30:51]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000038
+[02:30:59]: Could not find anim [death] in bank [ghost]
+[02:30:59]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000038
+[02:31:03]: Could not find anim [idle_loop] in bank [ghost]
+[02:31:06]: Could not find anim [transform] in bank [wilson]
+[02:31:07]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000038
+[02:32:17]: Could not find anim [death] in bank [ghost]
+[02:32:17]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000038
+[02:32:27]: Could not find anim [idle_loop] in bank [ghost]
+[02:32:30]: Could not find anim [transform] in bank [wilson]
+[02:32:31]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000038
+[02:33:04]: Registering master server in China lobby
+[02:33:05]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000038
+[02:33:05]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000038
+[02:33:05]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000038
+[02:33:05]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000038
+[02:33:05]: Serializing world: session/00D5299CCD233642/0000000038
+[02:33:17]: Could not find anim [idle_loop] in bank [ghost]
+[02:33:20]: Could not find anim [transform] in bank [wilson]
+[02:33:21]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000039
+[02:39:08]: Could not find anim [death] in bank [ghost]
+[02:39:08]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000039
+[02:40:11]: Could not find anim [death] in bank [ghost]
+[02:40:11]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000039
+[02:40:29]: Could not find anim [idle_loop] in bank [ghost]
+[02:40:32]: Could not find anim [transform] in bank [wilson]
+[02:40:33]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000039
+[02:41:05]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000039
+[02:41:05]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000039
+[02:41:05]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000039
+[02:41:05]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000039
+[02:41:05]: Serializing world: session/00D5299CCD233642/0000000039
+[02:41:09]: Registering master server in China lobby
+[02:41:24]: Could not find anim [death] in bank [ghost]
+[02:41:24]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000040
+[02:41:33]: Could not find anim [idle_loop] in bank [ghost]
+[02:41:36]: Could not find anim [transform] in bank [wilson]
+[02:41:37]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000040
+[02:41:44]: Could not find anim [idle_loop] in bank [ghost]
+[02:41:47]: Could not find anim [transform] in bank [wilson]
+[02:41:48]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000040
+[02:49:05]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000040
+[02:49:05]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000040
+[02:49:05]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000040
+[02:49:05]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000040
+[02:49:05]: Serializing world: session/00D5299CCD233642/0000000040
+[02:49:14]: Registering master server in China lobby
+[02:57:04]: Registering master server in China lobby
+[02:57:06]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000041
+[02:57:06]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000041
+[02:57:06]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000041
+[02:57:06]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000041
+[02:57:06]: Serializing world: session/00D5299CCD233642/0000000041
+[03:00:06]: [200] Account Communication Success (6)
+[03:00:06]: Received (KU_ItJcELTd) from TokenPurpose
+[03:03:28]: Could not find anim [death] in bank [ghost]
+[03:03:28]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000042
+[03:03:39]: Could not find anim [idle_loop] in bank [ghost]
+[03:03:42]: Could not find anim [transform] in bank [wilson]
+[03:03:43]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000042
+[03:04:05]: Could not find anim [death] in bank [ghost]
+[03:04:05]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000042
+[03:04:20]: Could not find anim [idle_loop] in bank [ghost]
+[03:04:23]: Could not find anim [transform] in bank [wilson]
+[03:04:24]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000042
+[03:05:02]: Could not find anim [death] in bank [ghost]
+[03:05:02]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000042
+[03:05:06]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000042
+[03:05:06]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000042
+[03:05:06]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000042
+[03:05:06]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000042
+[03:05:06]: Serializing world: session/00D5299CCD233642/0000000042
+[03:05:10]: Registering master server in China lobby
+[03:12:02]: Could not find anim [death] in bank [ghost]
+[03:12:02]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000043
+[03:12:06]: Could not find anim [idle_loop] in bank [ghost]
+[03:12:09]: Could not find anim [transform] in bank [wilson]
+[03:12:10]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000043
+[03:13:06]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000043
+[03:13:06]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000043
+[03:13:06]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000043
+[03:13:06]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000043
+[03:13:06]: Serializing world: session/00D5299CCD233642/0000000043
+[03:13:15]: Registering master server in China lobby
+[03:13:18]: Could not find anim [idle_loop] in bank [ghost]
+[03:13:21]: Could not find anim [transform] in bank [wilson]
+[03:13:22]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000044
+[03:14:14]: Connection lost to 93.51.133.176|1 <3869727790829667582>
+[03:14:14]: [Shard] (KU_uV8sgomj) disconnected from [SHDMASTER](1)
+[03:14:14]: [Rail] Reporting player quit "钟情为你" (R:76561197981229727).
+[03:14:15]: Registering master server in China lobby
+[03:14:15]: Serializing user: session/00D5299CCD233642/A7N1U8RAMB1D/0000000044
+[03:20:31]: Could not find anim [death] in bank [ghost]
+[03:20:31]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000044
+[03:20:51]: Could not find anim [idle_loop] in bank [ghost]
+[03:20:54]: Could not find anim [transform] in bank [wilson]
+[03:20:55]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000044
+[03:21:04]: Could not find anim [death] in bank [ghost]
+[03:21:04]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000044
+[03:21:05]: Registering master server in China lobby
+[03:21:06]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000044
+[03:21:06]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000044
+[03:21:06]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000044
+[03:21:06]: Serializing world: session/00D5299CCD233642/0000000044
+[03:21:35]: Could not find anim [death] in bank [ghost]
+[03:21:35]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000045
+[03:21:39]: Connection lost to 93.51.133.177|1 <8706898144974164053>
+[03:21:39]: [Shard] (KU_d2kn7BqG) disconnected from [SHDMASTER](1)
+[03:21:39]: [Rail] Reporting player quit "莽夫丨" (R:76561197971080639).
+[03:21:39]: Serializing user: session/00D5299CCD233642/A7KS5EOHPF8G/0000000045
+[03:21:40]: Registering master server in China lobby
+[03:21:44]: [Shard] (KU_ItJcELTd) disconnected from [SHDMASTER](1)
+[03:21:44]: [Rail] Reporting player quit "蹦嚓擦" (R:76561197971098217).
+[03:21:44]: [IPC] Received shutdown signal.
+[03:21:44]: Serializing user: session/00D5299CCD233642/A7IBEJJ3ILR7/0000000045
+[03:21:44]: Serializing user: session/00D5299CCD233642/A7I5LJ3IH596/0000000045
+[03:21:44]: Serializing world: session/00D5299CCD233642/0000000045
+[03:21:44]: Truncating to snapshot #45...
+[03:21:44]:  - session/00D5299CCD233642/0000000014
+[03:21:44]:  - session/00D5299CCD233642/0000000015
+[03:21:44]:  - session/00D5299CCD233642/0000000016
+[03:21:44]:  - session/00D5299CCD233642/0000000017
+[03:21:44]:  - session/00D5299CCD233642/0000000018
+[03:21:44]:  - session/00D5299CCD233642/0000000019
+[03:21:44]:  - session/00D5299CCD233642/0000000020
+[03:21:44]:  - session/00D5299CCD233642/0000000021
+[03:21:44]:  - session/00D5299CCD233642/0000000022
+[03:21:44]:  - session/00D5299CCD233642/0000000023
+[03:21:44]:  - session/00D5299CCD233642/0000000024
+[03:21:44]:  - session/00D5299CCD233642/0000000025
+[03:21:44]:  - session/00D5299CCD233642/0000000026
+[03:21:44]:  - session/00D5299CCD233642/0000000027
+[03:21:44]:  - session/00D5299CCD233642/0000000028
+[03:21:44]:  - session/00D5299CCD233642/0000000029
+[03:21:44]:  - session/00D5299CCD233642/0000000030
+[03:21:44]:  - session/00D5299CCD233642/0000000031
+[03:21:44]:  - session/00D5299CCD233642/0000000032
+[03:21:44]:  - session/00D5299CCD233642/0000000033
+[03:21:44]:  - session/00D5299CCD233642/0000000034
+[03:21:44]:  - session/00D5299CCD233642/0000000035
+[03:21:44]:  - session/00D5299CCD233642/0000000036
+[03:21:44]:  - session/00D5299CCD233642/0000000037
+[03:21:44]:  - session/00D5299CCD233642/0000000038
+[03:21:44]:  - session/00D5299CCD233642/0000000039
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000039
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000038
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000037
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000036
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000035
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000034
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000033
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000032
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000031
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000030
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000029
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000028
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000027
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000026
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000025
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000024
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000023
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000022
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000021
+[03:21:44]:  - session/00D5299CCD233642/A7I5LJ3IH596/0000000020
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000039
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000038
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000037
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000036
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000035
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000034
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000033
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000032
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000031
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000030
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000029
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000028
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000027
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000026
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000025
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000024
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000023
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000022
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000021
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000020
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000019
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000018
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000017
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000016
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000015
+[03:21:44]:  - session/00D5299CCD233642/A7IBEJJ3ILR7/0000000014
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000039
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000038
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000037
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000036
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000035
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000032
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000031
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000030
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000029
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000028
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000027
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000026
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000025
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000024
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000023
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000022
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000021
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000020
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000018
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000017
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000016
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000015
+[03:21:44]:  - session/00D5299CCD233642/A7KS5EOHPF8G/0000000014
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000039
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000038
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000037
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000036
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000035
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000034
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000033
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000032
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000031
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000030
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000029
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000028
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000027
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000026
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000025
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000024
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000023
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000022
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000021
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000017
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000016
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000015
+[03:21:44]:  - session/00D5299CCD233642/A7N1U8RAMB1D/0000000014
+[03:21:44]:    118 file(s) removed
+[03:21:44]:  > session/00D5299CCD233642/A7I5LJ3IH596/savelocation
+[03:21:44]:  > session/00D5299CCD233642/A7IBEJJ3ILR7/savelocation
+[03:21:44]:  > session/00D5299CCD233642/A7KS5EOHPF8G/savelocation
+[03:21:44]:    3 file(s) updated
+[03:21:44]: Removing server from China lobby
+[03:21:44]: [Shard] Stopping shard mode
+[03:21:45]: Collecting garbage...
+[03:21:45]: lua_gc took 0.17 seconds
+[03:21:45]: ~ShardLuaProxy()
+[03:21:45]: ~cEventLeaderboardProxy()
+[03:21:45]: ~ItemServerLuaProxy()
+[03:21:45]: ~InventoryLuaProxy()
+[03:21:45]: ~NetworkLuaProxy()
+[03:21:45]: ~SimLuaProxy()
+[03:21:45]: Cancelling LuaQueryCallback handle [427]
+[03:21:45]: Cancelling LuaQueryCallback handle [428]
+[03:21:46]: lua_close took 0.42 seconds
+[03:21:46]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:21:46]: CurlRequestManager::ClientThread::Main() complete
+[03:21:46]: HttpClient2 discarded 0 callbacks.
+[03:21:46]: [Rail] Shutting down Rail
+[03:21:48]: Shutting down
